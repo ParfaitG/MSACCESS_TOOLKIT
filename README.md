@@ -17,8 +17,8 @@ Microsoft Access tool kit with VBA modules for everyday needs including:
 
 ### Getting Started
 
-Simply review VBA code (.bas) and import or copy/paste into your projects, tailoring according to your needs.
+Simply review VBA code (.bas) and import or copy/paste code into your projects, tailoring according to your needs.
 
 
-See **DEMO** for MS Access (.accdb) file demonstration of each module with all included modules.
+See **DEMO** for MS Access (.accdb) database file demonstration of each above module with all included materials.
 
