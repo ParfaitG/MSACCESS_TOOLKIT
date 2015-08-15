@@ -1,0 +1,4003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2015-08-04T09:54:42">
+<Qualities>
+<ID>1</ID>
+<Character>Al Borland</Character>
+<Quality>antics</Quality>
+</Qualities>
+<Qualities>
+<ID>1</ID>
+<Character>Al Borland</Character>
+<Quality>entertainment</Quality>
+</Qualities>
+<Qualities>
+<ID>1</ID>
+<Character>Al Borland</Character>
+<Quality>friend</Quality>
+</Qualities>
+<Qualities>
+<ID>1</ID>
+<Character>Al Borland</Character>
+<Quality>mama&apos;s boy</Quality>
+</Qualities>
+<Qualities>
+<ID>1</ID>
+<Character>Al Borland</Character>
+<Quality>quiet </Quality>
+</Qualities>
+<Qualities>
+<ID>1</ID>
+<Character>Al Borland</Character>
+<Quality>sentimental</Quality>
+</Qualities>
+<Qualities>
+<ID>1</ID>
+<Character>Al Borland</Character>
+<Quality>sitcom</Quality>
+</Qualities>
+<Qualities>
+<ID>1</ID>
+<Character>Al Borland</Character>
+<Quality>tools</Quality>
+</Qualities>
+<Qualities>
+<ID>2</ID>
+<Character>Al Bundy</Character>
+<Quality>ambition</Quality>
+</Qualities>
+<Qualities>
+<ID>2</ID>
+<Character>Al Bundy</Character>
+<Quality>Chicago</Quality>
+</Qualities>
+<Qualities>
+<ID>2</ID>
+<Character>Al Bundy</Character>
+<Quality>dashed hope</Quality>
+</Qualities>
+<Qualities>
+<ID>2</ID>
+<Character>Al Bundy</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>2</ID>
+<Character>Al Bundy</Character>
+<Quality>middle-aged</Quality>
+</Qualities>
+<Qualities>
+<ID>2</ID>
+<Character>Al Bundy</Character>
+<Quality>sitcom</Quality>
+</Qualities>
+<Qualities>
+<ID>2</ID>
+<Character>Al Bundy</Character>
+<Quality>sports</Quality>
+</Qualities>
+<Qualities>
+<ID>2</ID>
+<Character>Al Bundy</Character>
+<Quality>wife</Quality>
+</Qualities>
+<Qualities>
+<ID>3</ID>
+<Character>Alyosha</Character>
+<Quality>brother</Quality>
+</Qualities>
+<Qualities>
+<ID>3</ID>
+<Character>Alyosha</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>3</ID>
+<Character>Alyosha</Character>
+<Quality>faith</Quality>
+</Qualities>
+<Qualities>
+<ID>3</ID>
+<Character>Alyosha</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>3</ID>
+<Character>Alyosha</Character>
+<Quality>finances</Quality>
+</Qualities>
+<Qualities>
+<ID>3</ID>
+<Character>Alyosha</Character>
+<Quality>giving to others</Quality>
+</Qualities>
+<Qualities>
+<ID>3</ID>
+<Character>Alyosha</Character>
+<Quality>religion</Quality>
+</Qualities>
+<Qualities>
+<ID>3</ID>
+<Character>Alyosha</Character>
+<Quality>revenge</Quality>
+</Qualities>
+<Qualities>
+<ID>4</ID>
+<Character>Arthur Dimmesdale</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>4</ID>
+<Character>Arthur Dimmesdale</Character>
+<Quality>courage</Quality>
+</Qualities>
+<Qualities>
+<ID>4</ID>
+<Character>Arthur Dimmesdale</Character>
+<Quality>immorality</Quality>
+</Qualities>
+<Qualities>
+<ID>4</ID>
+<Character>Arthur Dimmesdale</Character>
+<Quality>New England</Quality>
+</Qualities>
+<Qualities>
+<ID>4</ID>
+<Character>Arthur Dimmesdale</Character>
+<Quality>preacher</Quality>
+</Qualities>
+<Qualities>
+<ID>4</ID>
+<Character>Arthur Dimmesdale</Character>
+<Quality>revenge</Quality>
+</Qualities>
+<Qualities>
+<ID>4</ID>
+<Character>Arthur Dimmesdale</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>4</ID>
+<Character>Arthur Dimmesdale</Character>
+<Quality>sick</Quality>
+</Qualities>
+<Qualities>
+<ID>5</ID>
+<Character>Athlete Dying Young</Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>5</ID>
+<Character>Athlete Dying Young</Character>
+<Quality>flower</Quality>
+</Qualities>
+<Qualities>
+<ID>5</ID>
+<Character>Athlete Dying Young</Character>
+<Quality>poetry</Quality>
+</Qualities>
+<Qualities>
+<ID>5</ID>
+<Character>Athlete Dying Young</Character>
+<Quality>running</Quality>
+</Qualities>
+<Qualities>
+<ID>5</ID>
+<Character>Athlete Dying Young</Character>
+<Quality>sports</Quality>
+</Qualities>
+<Qualities>
+<ID>5</ID>
+<Character>Athlete Dying Young</Character>
+<Quality>success</Quality>
+</Qualities>
+<Qualities>
+<ID>5</ID>
+<Character>Athlete Dying Young</Character>
+<Quality>things of this world</Quality>
+</Qualities>
+<Qualities>
+<ID>5</ID>
+<Character>Athlete Dying Young</Character>
+<Quality>vanity</Quality>
+</Qualities>
+<Qualities>
+<ID>6</ID>
+<Character>Barney Gumble</Character>
+<Quality>alcohol</Quality>
+</Qualities>
+<Qualities>
+<ID>6</ID>
+<Character>Barney Gumble</Character>
+<Quality>animated</Quality>
+</Qualities>
+<Qualities>
+<ID>6</ID>
+<Character>Barney Gumble</Character>
+<Quality>friend</Quality>
+</Qualities>
+<Qualities>
+<ID>6</ID>
+<Character>Barney Gumble</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>6</ID>
+<Character>Barney Gumble</Character>
+<Quality>middle-age</Quality>
+</Qualities>
+<Qualities>
+<ID>6</ID>
+<Character>Barney Gumble</Character>
+<Quality>poetry</Quality>
+</Qualities>
+<Qualities>
+<ID>6</ID>
+<Character>Barney Gumble</Character>
+<Quality>purposeless</Quality>
+</Qualities>
+<Qualities>
+<ID>6</ID>
+<Character>Barney Gumble</Character>
+<Quality>success</Quality>
+</Qualities>
+<Qualities>
+<ID>7</ID>
+<Character>Bartleby</Character>
+<Quality>city worker</Quality>
+</Qualities>
+<Qualities>
+<ID>7</ID>
+<Character>Bartleby</Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>7</ID>
+<Character>Bartleby</Character>
+<Quality>failure</Quality>
+</Qualities>
+<Qualities>
+<ID>7</ID>
+<Character>Bartleby</Character>
+<Quality>law</Quality>
+</Qualities>
+<Qualities>
+<ID>7</ID>
+<Character>Bartleby</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>7</ID>
+<Character>Bartleby</Character>
+<Quality>low intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>7</ID>
+<Character>Bartleby</Character>
+<Quality>mystery</Quality>
+</Qualities>
+<Qualities>
+<ID>7</ID>
+<Character>Bartleby</Character>
+<Quality>New York</Quality>
+</Qualities>
+<Qualities>
+<ID>8</ID>
+<Character>Belle</Character>
+<Quality>animated</Quality>
+</Qualities>
+<Qualities>
+<ID>8</ID>
+<Character>Belle</Character>
+<Quality>dance</Quality>
+</Qualities>
+<Qualities>
+<ID>8</ID>
+<Character>Belle</Character>
+<Quality>fantasy</Quality>
+</Qualities>
+<Qualities>
+<ID>8</ID>
+<Character>Belle</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>8</ID>
+<Character>Belle</Character>
+<Quality>flower</Quality>
+</Qualities>
+<Qualities>
+<ID>8</ID>
+<Character>Belle</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>8</ID>
+<Character>Belle</Character>
+<Quality>sacrifice</Quality>
+</Qualities>
+<Qualities>
+<ID>8</ID>
+<Character>Belle</Character>
+<Quality>small town</Quality>
+</Qualities>
+<Qualities>
+<ID>9</ID>
+<Character>Bernard</Character>
+<Quality>ambition</Quality>
+</Qualities>
+<Qualities>
+<ID>9</ID>
+<Character>Bernard</Character>
+<Quality>friend</Quality>
+</Qualities>
+<Qualities>
+<ID>9</ID>
+<Character>Bernard</Character>
+<Quality>giving to others</Quality>
+</Qualities>
+<Qualities>
+<ID>9</ID>
+<Character>Bernard</Character>
+<Quality>high school</Quality>
+</Qualities>
+<Qualities>
+<ID>9</ID>
+<Character>Bernard</Character>
+<Quality>law</Quality>
+</Qualities>
+<Qualities>
+<ID>9</ID>
+<Character>Bernard</Character>
+<Quality>nerd</Quality>
+</Qualities>
+<Qualities>
+<ID>9</ID>
+<Character>Bernard</Character>
+<Quality>success</Quality>
+</Qualities>
+<Qualities>
+<ID>9</ID>
+<Character>Bernard</Character>
+<Quality>theatrical play</Quality>
+</Qualities>
+<Qualities>
+<ID>10</ID>
+<Character>Bigger Thomas</Character>
+<Quality>black</Quality>
+</Qualities>
+<Qualities>
+<ID>10</ID>
+<Character>Bigger Thomas</Character>
+<Quality>blind</Quality>
+</Qualities>
+<Qualities>
+<ID>10</ID>
+<Character>Bigger Thomas</Character>
+<Quality>Chicago</Quality>
+</Qualities>
+<Qualities>
+<ID>10</ID>
+<Character>Bigger Thomas</Character>
+<Quality>crime</Quality>
+</Qualities>
+<Qualities>
+<ID>10</ID>
+<Character>Bigger Thomas</Character>
+<Quality>ghetto</Quality>
+</Qualities>
+<Qualities>
+<ID>10</ID>
+<Character>Bigger Thomas</Character>
+<Quality>law</Quality>
+</Qualities>
+<Qualities>
+<ID>10</ID>
+<Character>Bigger Thomas</Character>
+<Quality>outcast</Quality>
+</Qualities>
+<Qualities>
+<ID>10</ID>
+<Character>Bigger Thomas</Character>
+<Quality>uneducated</Quality>
+</Qualities>
+<Qualities>
+<ID>11</ID>
+<Character>Billy Pilgrim</Character>
+<Quality>alien</Quality>
+</Qualities>
+<Qualities>
+<ID>11</ID>
+<Character>Billy Pilgrim</Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>11</ID>
+<Character>Billy Pilgrim</Character>
+<Quality>depressed</Quality>
+</Qualities>
+<Qualities>
+<ID>11</ID>
+<Character>Billy Pilgrim</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>11</ID>
+<Character>Billy Pilgrim</Character>
+<Quality>loss</Quality>
+</Qualities>
+<Qualities>
+<ID>11</ID>
+<Character>Billy Pilgrim</Character>
+<Quality>madness</Quality>
+</Qualities>
+<Qualities>
+<ID>11</ID>
+<Character>Billy Pilgrim</Character>
+<Quality>war</Quality>
+</Qualities>
+<Qualities>
+<ID>11</ID>
+<Character>Billy Pilgrim</Character>
+<Quality>wife</Quality>
+</Qualities>
+<Qualities>
+<ID>12</ID>
+<Character>Bleeding Gums Murphy</Character>
+<Quality>animated</Quality>
+</Qualities>
+<Qualities>
+<ID>12</ID>
+<Character>Bleeding Gums Murphy</Character>
+<Quality>black</Quality>
+</Qualities>
+<Qualities>
+<ID>12</ID>
+<Character>Bleeding Gums Murphy</Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>12</ID>
+<Character>Bleeding Gums Murphy</Character>
+<Quality>fame</Quality>
+</Qualities>
+<Qualities>
+<ID>12</ID>
+<Character>Bleeding Gums Murphy</Character>
+<Quality>finances</Quality>
+</Qualities>
+<Qualities>
+<ID>12</ID>
+<Character>Bleeding Gums Murphy</Character>
+<Quality>friend</Quality>
+</Qualities>
+<Qualities>
+<ID>12</ID>
+<Character>Bleeding Gums Murphy</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>12</ID>
+<Character>Bleeding Gums Murphy</Character>
+<Quality>music</Quality>
+</Qualities>
+<Qualities>
+<ID>13</ID>
+<Character>Bob Cratchit</Character>
+<Quality>Christmas</Quality>
+</Qualities>
+<Qualities>
+<ID>13</ID>
+<Character>Bob Cratchit</Character>
+<Quality>clerk</Quality>
+</Qualities>
+<Qualities>
+<ID>13</ID>
+<Character>Bob Cratchit</Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>13</ID>
+<Character>Bob Cratchit</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>13</ID>
+<Character>Bob Cratchit</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>13</ID>
+<Character>Bob Cratchit</Character>
+<Quality>obedient</Quality>
+</Qualities>
+<Qualities>
+<ID>13</ID>
+<Character>Bob Cratchit</Character>
+<Quality>poverty</Quality>
+</Qualities>
+<Qualities>
+<ID>13</ID>
+<Character>Bob Cratchit</Character>
+<Quality>winter</Quality>
+</Qualities>
+<Qualities>
+<ID>14</ID>
+<Character>Brooks Hatlen</Character>
+<Quality>crime</Quality>
+</Qualities>
+<Qualities>
+<ID>14</ID>
+<Character>Brooks Hatlen</Character>
+<Quality>fear</Quality>
+</Qualities>
+<Qualities>
+<ID>14</ID>
+<Character>Brooks Hatlen</Character>
+<Quality>film</Quality>
+</Qualities>
+<Qualities>
+<ID>14</ID>
+<Character>Brooks Hatlen</Character>
+<Quality>freedom</Quality>
+</Qualities>
+<Qualities>
+<ID>14</ID>
+<Character>Brooks Hatlen</Character>
+<Quality>friend</Quality>
+</Qualities>
+<Qualities>
+<ID>14</ID>
+<Character>Brooks Hatlen</Character>
+<Quality>old age</Quality>
+</Qualities>
+<Qualities>
+<ID>14</ID>
+<Character>Brooks Hatlen</Character>
+<Quality>prison</Quality>
+</Qualities>
+<Qualities>
+<ID>14</ID>
+<Character>Brooks Hatlen</Character>
+<Quality>suicide</Quality>
+</Qualities>
+<Qualities>
+<ID>15</ID>
+<Character>C. Green</Character>
+<Quality>city worker</Quality>
+</Qualities>
+<Qualities>
+<ID>15</ID>
+<Character>C. Green</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>15</ID>
+<Character>C. Green</Character>
+<Quality>New York</Quality>
+</Qualities>
+<Qualities>
+<ID>15</ID>
+<Character>C. Green</Character>
+<Quality>newspaper</Quality>
+</Qualities>
+<Qualities>
+<ID>15</ID>
+<Character>C. Green</Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>15</ID>
+<Character>C. Green</Character>
+<Quality>short story</Quality>
+</Qualities>
+<Qualities>
+<ID>15</ID>
+<Character>C. Green</Character>
+<Quality>suicide</Quality>
+</Qualities>
+<Qualities>
+<ID>15</ID>
+<Character>C. Green</Character>
+<Quality>urban</Quality>
+</Qualities>
+<Qualities>
+<ID>16</ID>
+<Character>C-3PO</Character>
+<Quality>alien</Quality>
+</Qualities>
+<Qualities>
+<ID>16</ID>
+<Character>C-3PO</Character>
+<Quality>film</Quality>
+</Qualities>
+<Qualities>
+<ID>16</ID>
+<Character>C-3PO</Character>
+<Quality>good vs. evil</Quality>
+</Qualities>
+<Qualities>
+<ID>16</ID>
+<Character>C-3PO</Character>
+<Quality>high intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>16</ID>
+<Character>C-3PO</Character>
+<Quality>machine</Quality>
+</Qualities>
+<Qualities>
+<ID>16</ID>
+<Character>C-3PO</Character>
+<Quality>sci-fi</Quality>
+</Qualities>
+<Qualities>
+<ID>16</ID>
+<Character>C-3PO</Character>
+<Quality>space</Quality>
+</Qualities>
+<Qualities>
+<ID>16</ID>
+<Character>C-3PO</Character>
+<Quality>war</Quality>
+</Qualities>
+<Qualities>
+<ID>17</ID>
+<Character>Captain Ahab</Character>
+<Quality>ambition</Quality>
+</Qualities>
+<Qualities>
+<ID>17</ID>
+<Character>Captain Ahab</Character>
+<Quality>bitter</Quality>
+</Qualities>
+<Qualities>
+<ID>17</ID>
+<Character>Captain Ahab</Character>
+<Quality>lame</Quality>
+</Qualities>
+<Qualities>
+<ID>17</ID>
+<Character>Captain Ahab</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>17</ID>
+<Character>Captain Ahab</Character>
+<Quality>madness</Quality>
+</Qualities>
+<Qualities>
+<ID>17</ID>
+<Character>Captain Ahab</Character>
+<Quality>old age</Quality>
+</Qualities>
+<Qualities>
+<ID>17</ID>
+<Character>Captain Ahab</Character>
+<Quality>revenge</Quality>
+</Qualities>
+<Qualities>
+<ID>17</ID>
+<Character>Captain Ahab</Character>
+<Quality>sea</Quality>
+</Qualities>
+<Qualities>
+<ID>18</ID>
+<Character>Captain Willard</Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>18</ID>
+<Character>Captain Willard</Character>
+<Quality>fear</Quality>
+</Qualities>
+<Qualities>
+<ID>18</ID>
+<Character>Captain Willard</Character>
+<Quality>gun</Quality>
+</Qualities>
+<Qualities>
+<ID>18</ID>
+<Character>Captain Willard</Character>
+<Quality>madness</Quality>
+</Qualities>
+<Qualities>
+<ID>18</ID>
+<Character>Captain Willard</Character>
+<Quality>ship</Quality>
+</Qualities>
+<Qualities>
+<ID>18</ID>
+<Character>Captain Willard</Character>
+<Quality>thoughts</Quality>
+</Qualities>
+<Qualities>
+<ID>18</ID>
+<Character>Captain Willard</Character>
+<Quality>unsure</Quality>
+</Qualities>
+<Qualities>
+<ID>18</ID>
+<Character>Captain Willard</Character>
+<Quality>war</Quality>
+</Qualities>
+<Qualities>
+<ID>19</ID>
+<Character>Carlton Banks</Character>
+<Quality>antics</Quality>
+</Qualities>
+<Qualities>
+<ID>19</ID>
+<Character>Carlton Banks</Character>
+<Quality>attorney</Quality>
+</Qualities>
+<Qualities>
+<ID>19</ID>
+<Character>Carlton Banks</Character>
+<Quality>dance</Quality>
+</Qualities>
+<Qualities>
+<ID>19</ID>
+<Character>Carlton Banks</Character>
+<Quality>high intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>19</ID>
+<Character>Carlton Banks</Character>
+<Quality>innocence</Quality>
+</Qualities>
+<Qualities>
+<ID>19</ID>
+<Character>Carlton Banks</Character>
+<Quality>learning</Quality>
+</Qualities>
+<Qualities>
+<ID>19</ID>
+<Character>Carlton Banks</Character>
+<Quality>rich</Quality>
+</Qualities>
+<Qualities>
+<ID>19</ID>
+<Character>Carlton Banks</Character>
+<Quality>young</Quality>
+</Qualities>
+<Qualities>
+<ID>20</ID>
+<Character>Cash Bundren</Character>
+<Quality>brother </Quality>
+</Qualities>
+<Qualities>
+<ID>20</ID>
+<Character>Cash Bundren</Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>20</ID>
+<Character>Cash Bundren</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>20</ID>
+<Character>Cash Bundren</Character>
+<Quality>journey</Quality>
+</Qualities>
+<Qualities>
+<ID>20</ID>
+<Character>Cash Bundren</Character>
+<Quality>lame</Quality>
+</Qualities>
+<Qualities>
+<ID>20</ID>
+<Character>Cash Bundren</Character>
+<Quality>rural</Quality>
+</Qualities>
+<Qualities>
+<ID>20</ID>
+<Character>Cash Bundren</Character>
+<Quality>sacrifice</Quality>
+</Qualities>
+<Qualities>
+<ID>20</ID>
+<Character>Cash Bundren</Character>
+<Quality>tools</Quality>
+</Qualities>
+<Qualities>
+<ID>21</ID>
+<Character>Charles Foster Kane</Character>
+<Quality>failure</Quality>
+</Qualities>
+<Qualities>
+<ID>21</ID>
+<Character>Charles Foster Kane</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>21</ID>
+<Character>Charles Foster Kane</Character>
+<Quality>meager origins</Quality>
+</Qualities>
+<Qualities>
+<ID>21</ID>
+<Character>Charles Foster Kane</Character>
+<Quality>newspaper</Quality>
+</Qualities>
+<Qualities>
+<ID>21</ID>
+<Character>Charles Foster Kane</Character>
+<Quality>politics</Quality>
+</Qualities>
+<Qualities>
+<ID>21</ID>
+<Character>Charles Foster Kane</Character>
+<Quality>rich</Quality>
+</Qualities>
+<Qualities>
+<ID>21</ID>
+<Character>Charles Foster Kane</Character>
+<Quality>success</Quality>
+</Qualities>
+<Qualities>
+<ID>21</ID>
+<Character>Charles Foster Kane</Character>
+<Quality>wife</Quality>
+</Qualities>
+<Qualities>
+<ID>22</ID>
+<Character>Charley Parks</Character>
+<Quality>freedom</Quality>
+</Qualities>
+<Qualities>
+<ID>22</ID>
+<Character>Charley Parks</Character>
+<Quality>hospital</Quality>
+</Qualities>
+<Qualities>
+<ID>22</ID>
+<Character>Charley Parks</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>22</ID>
+<Character>Charley Parks</Character>
+<Quality>madness</Quality>
+</Qualities>
+<Qualities>
+<ID>22</ID>
+<Character>Charley Parks</Character>
+<Quality>mother</Quality>
+</Qualities>
+<Qualities>
+<ID>22</ID>
+<Character>Charley Parks</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>22</ID>
+<Character>Charley Parks</Character>
+<Quality>sci-fi</Quality>
+</Qualities>
+<Qualities>
+<ID>22</ID>
+<Character>Charley Parks</Character>
+<Quality>toy</Quality>
+</Qualities>
+<Qualities>
+<ID>23</ID>
+<Character>Charlie Bucket</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>23</ID>
+<Character>Charlie Bucket</Character>
+<Quality>chocolate</Quality>
+</Qualities>
+<Qualities>
+<ID>23</ID>
+<Character>Charlie Bucket</Character>
+<Quality>dreams</Quality>
+</Qualities>
+<Qualities>
+<ID>23</ID>
+<Character>Charlie Bucket</Character>
+<Quality>fantasy</Quality>
+</Qualities>
+<Qualities>
+<ID>23</ID>
+<Character>Charlie Bucket</Character>
+<Quality>film</Quality>
+</Qualities>
+<Qualities>
+<ID>23</ID>
+<Character>Charlie Bucket</Character>
+<Quality>learning</Quality>
+</Qualities>
+<Qualities>
+<ID>23</ID>
+<Character>Charlie Bucket</Character>
+<Quality>newspaper</Quality>
+</Qualities>
+<Qualities>
+<ID>23</ID>
+<Character>Charlie Bucket</Character>
+<Quality>poverty</Quality>
+</Qualities>
+<Qualities>
+<ID>24</ID>
+<Character>Charlie Gordon</Character>
+<Quality>confidence</Quality>
+</Qualities>
+<Qualities>
+<ID>24</ID>
+<Character>Charlie Gordon</Character>
+<Quality>failure</Quality>
+</Qualities>
+<Qualities>
+<ID>24</ID>
+<Character>Charlie Gordon</Character>
+<Quality>high intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>24</ID>
+<Character>Charlie Gordon</Character>
+<Quality>hospital</Quality>
+</Qualities>
+<Qualities>
+<ID>24</ID>
+<Character>Charlie Gordon</Character>
+<Quality>low intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>24</ID>
+<Character>Charlie Gordon</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>24</ID>
+<Character>Charlie Gordon</Character>
+<Quality>sci-fi</Quality>
+</Qualities>
+<Qualities>
+<ID>24</ID>
+<Character>Charlie Gordon</Character>
+<Quality>unsure</Quality>
+</Qualities>
+<Qualities>
+<ID>25</ID>
+<Character>Clarisse</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>25</ID>
+<Character>Clarisse</Character>
+<Quality>future</Quality>
+</Qualities>
+<Qualities>
+<ID>25</ID>
+<Character>Clarisse</Character>
+<Quality>innocence</Quality>
+</Qualities>
+<Qualities>
+<ID>25</ID>
+<Character>Clarisse</Character>
+<Quality>learning</Quality>
+</Qualities>
+<Qualities>
+<ID>25</ID>
+<Character>Clarisse</Character>
+<Quality>nature</Quality>
+</Qualities>
+<Qualities>
+<ID>25</ID>
+<Character>Clarisse</Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>25</ID>
+<Character>Clarisse</Character>
+<Quality>stranger</Quality>
+</Qualities>
+<Qualities>
+<ID>25</ID>
+<Character>Clarisse</Character>
+<Quality>young</Quality>
+</Qualities>
+<Qualities>
+<ID>26</ID>
+<Character>Daredevil</Character>
+<Quality>blind</Quality>
+</Qualities>
+<Qualities>
+<ID>26</ID>
+<Character>Daredevil</Character>
+<Quality>courage</Quality>
+</Qualities>
+<Qualities>
+<ID>26</ID>
+<Character>Daredevil</Character>
+<Quality>crime</Quality>
+</Qualities>
+<Qualities>
+<ID>26</ID>
+<Character>Daredevil</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>26</ID>
+<Character>Daredevil</Character>
+<Quality>fight</Quality>
+</Qualities>
+<Qualities>
+<ID>26</ID>
+<Character>Daredevil</Character>
+<Quality>good vs. evil</Quality>
+</Qualities>
+<Qualities>
+<ID>26</ID>
+<Character>Daredevil</Character>
+<Quality>law</Quality>
+</Qualities>
+<Qualities>
+<ID>26</ID>
+<Character>Daredevil</Character>
+<Quality>revenge</Quality>
+</Qualities>
+<Qualities>
+<ID>27</ID>
+<Character>Data</Character>
+<Quality>alien</Quality>
+</Qualities>
+<Qualities>
+<ID>27</ID>
+<Character>Data</Character>
+<Quality>high intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>27</ID>
+<Character>Data</Character>
+<Quality>learning</Quality>
+</Qualities>
+<Qualities>
+<ID>27</ID>
+<Character>Data</Character>
+<Quality>machine</Quality>
+</Qualities>
+<Qualities>
+<ID>27</ID>
+<Character>Data</Character>
+<Quality>sci-fi</Quality>
+</Qualities>
+<Qualities>
+<ID>27</ID>
+<Character>Data</Character>
+<Quality>ship</Quality>
+</Qualities>
+<Qualities>
+<ID>27</ID>
+<Character>Data</Character>
+<Quality>space</Quality>
+</Qualities>
+<Qualities>
+<ID>27</ID>
+<Character>Data</Character>
+<Quality>superhuman</Quality>
+</Qualities>
+<Qualities>
+<ID>28</ID>
+<Character>Denver</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>28</ID>
+<Character>Denver</Character>
+<Quality>freedom</Quality>
+</Qualities>
+<Qualities>
+<ID>28</ID>
+<Character>Denver</Character>
+<Quality>immorality</Quality>
+</Qualities>
+<Qualities>
+<ID>28</ID>
+<Character>Denver</Character>
+<Quality>learning</Quality>
+</Qualities>
+<Qualities>
+<ID>28</ID>
+<Character>Denver</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>28</ID>
+<Character>Denver</Character>
+<Quality>mother</Quality>
+</Qualities>
+<Qualities>
+<ID>28</ID>
+<Character>Denver</Character>
+<Quality>slavery</Quality>
+</Qualities>
+<Qualities>
+<ID>28</ID>
+<Character>Denver</Character>
+<Quality>success</Quality>
+</Qualities>
+<Qualities>
+<ID>29</ID>
+<Character>Dorothy</Character>
+<Quality>ambition</Quality>
+</Qualities>
+<Qualities>
+<ID>29</ID>
+<Character>Dorothy</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>29</ID>
+<Character>Dorothy</Character>
+<Quality>fantasy</Quality>
+</Qualities>
+<Qualities>
+<ID>29</ID>
+<Character>Dorothy</Character>
+<Quality>friend</Quality>
+</Qualities>
+<Qualities>
+<ID>29</ID>
+<Character>Dorothy</Character>
+<Quality>good vs. evil</Quality>
+</Qualities>
+<Qualities>
+<ID>29</ID>
+<Character>Dorothy</Character>
+<Quality>rural</Quality>
+</Qualities>
+<Qualities>
+<ID>29</ID>
+<Character>Dorothy</Character>
+<Quality>sentimental</Quality>
+</Qualities>
+<Qualities>
+<ID>29</ID>
+<Character>Dorothy</Character>
+<Quality>small town</Quality>
+</Qualities>
+<Qualities>
+<ID>30</ID>
+<Character>Edmund Tyrone</Character>
+<Quality>alcohol</Quality>
+</Qualities>
+<Qualities>
+<ID>30</ID>
+<Character>Edmund Tyrone</Character>
+<Quality>brother </Quality>
+</Qualities>
+<Qualities>
+<ID>30</ID>
+<Character>Edmund Tyrone</Character>
+<Quality>intellectual</Quality>
+</Qualities>
+<Qualities>
+<ID>30</ID>
+<Character>Edmund Tyrone</Character>
+<Quality>newspaper</Quality>
+</Qualities>
+<Qualities>
+<ID>30</ID>
+<Character>Edmund Tyrone</Character>
+<Quality>poetry</Quality>
+</Qualities>
+<Qualities>
+<ID>30</ID>
+<Character>Edmund Tyrone</Character>
+<Quality>sea</Quality>
+</Qualities>
+<Qualities>
+<ID>30</ID>
+<Character>Edmund Tyrone</Character>
+<Quality>ship</Quality>
+</Qualities>
+<Qualities>
+<ID>30</ID>
+<Character>Edmund Tyrone</Character>
+<Quality>sick</Quality>
+</Qualities>
+<Qualities>
+<ID>31</ID>
+<Character>Edna Pontellier</Character>
+<Quality>mother</Quality>
+</Qualities>
+<Qualities>
+<ID>31</ID>
+<Character>Edna Pontellier</Character>
+<Quality>music</Quality>
+</Qualities>
+<Qualities>
+<ID>31</ID>
+<Character>Edna Pontellier</Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>31</ID>
+<Character>Edna Pontellier</Character>
+<Quality>rich</Quality>
+</Qualities>
+<Qualities>
+<ID>31</ID>
+<Character>Edna Pontellier</Character>
+<Quality>sea</Quality>
+</Qualities>
+<Qualities>
+<ID>31</ID>
+<Character>Edna Pontellier</Character>
+<Quality>South</Quality>
+</Qualities>
+<Qualities>
+<ID>31</ID>
+<Character>Edna Pontellier</Character>
+<Quality>suicide</Quality>
+</Qualities>
+<Qualities>
+<ID>31</ID>
+<Character>Edna Pontellier</Character>
+<Quality>vacation</Quality>
+</Qualities>
+<Qualities>
+<ID>32</ID>
+<Character>Elizabeth Bates</Character>
+<Quality>alcohol</Quality>
+</Qualities>
+<Qualities>
+<ID>32</ID>
+<Character>Elizabeth Bates</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>32</ID>
+<Character>Elizabeth Bates</Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>32</ID>
+<Character>Elizabeth Bates</Character>
+<Quality>flower</Quality>
+</Qualities>
+<Qualities>
+<ID>32</ID>
+<Character>Elizabeth Bates</Character>
+<Quality>house chores</Quality>
+</Qualities>
+<Qualities>
+<ID>32</ID>
+<Character>Elizabeth Bates</Character>
+<Quality>mother</Quality>
+</Qualities>
+<Qualities>
+<ID>32</ID>
+<Character>Elizabeth Bates</Character>
+<Quality>short story</Quality>
+</Qualities>
+<Qualities>
+<ID>32</ID>
+<Character>Elizabeth Bates</Character>
+<Quality>wife</Quality>
+</Qualities>
+<Qualities>
+<ID>33</ID>
+<Character>Emily Grierson</Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>33</ID>
+<Character>Emily Grierson</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>33</ID>
+<Character>Emily Grierson</Character>
+<Quality>mystery</Quality>
+</Qualities>
+<Qualities>
+<ID>33</ID>
+<Character>Emily Grierson</Character>
+<Quality>outcast</Quality>
+</Qualities>
+<Qualities>
+<ID>33</ID>
+<Character>Emily Grierson</Character>
+<Quality>painting</Quality>
+</Qualities>
+<Qualities>
+<ID>33</ID>
+<Character>Emily Grierson</Character>
+<Quality>politics</Quality>
+</Qualities>
+<Qualities>
+<ID>33</ID>
+<Character>Emily Grierson</Character>
+<Quality>rich</Quality>
+</Qualities>
+<Qualities>
+<ID>33</ID>
+<Character>Emily Grierson</Character>
+<Quality>South</Quality>
+</Qualities>
+<Qualities>
+<ID>34</ID>
+<Character>Emily Webb</Character>
+<Quality>afterlife</Quality>
+</Qualities>
+<Qualities>
+<ID>34</ID>
+<Character>Emily Webb</Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>34</ID>
+<Character>Emily Webb</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>34</ID>
+<Character>Emily Webb</Character>
+<Quality>New England</Quality>
+</Qualities>
+<Qualities>
+<ID>34</ID>
+<Character>Emily Webb</Character>
+<Quality>things of this world</Quality>
+</Qualities>
+<Qualities>
+<ID>34</ID>
+<Character>Emily Webb</Character>
+<Quality>vision</Quality>
+</Qualities>
+<Qualities>
+<ID>34</ID>
+<Character>Emily Webb</Character>
+<Quality>wife</Quality>
+</Qualities>
+<Qualities>
+<ID>34</ID>
+<Character>Emily Webb</Character>
+<Quality>young</Quality>
+</Qualities>
+<Qualities>
+<ID>35</ID>
+<Character>Emmeline Grangerford</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>35</ID>
+<Character>Emmeline Grangerford</Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>35</ID>
+<Character>Emmeline Grangerford</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>35</ID>
+<Character>Emmeline Grangerford</Character>
+<Quality>mystery</Quality>
+</Qualities>
+<Qualities>
+<ID>35</ID>
+<Character>Emmeline Grangerford</Character>
+<Quality>poetry</Quality>
+</Qualities>
+<Qualities>
+<ID>35</ID>
+<Character>Emmeline Grangerford</Character>
+<Quality>sick</Quality>
+</Qualities>
+<Qualities>
+<ID>35</ID>
+<Character>Emmeline Grangerford</Character>
+<Quality>South</Quality>
+</Qualities>
+<Qualities>
+<ID>35</ID>
+<Character>Emmeline Grangerford</Character>
+<Quality>wearing black</Quality>
+</Qualities>
+<Qualities>
+<ID>36</ID>
+<Character>Forrest Gump</Character>
+<Quality>low intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>36</ID>
+<Character>Forrest Gump</Character>
+<Quality>mama&apos;s boy</Quality>
+</Qualities>
+<Qualities>
+<ID>36</ID>
+<Character>Forrest Gump</Character>
+<Quality>politics</Quality>
+</Qualities>
+<Qualities>
+<ID>36</ID>
+<Character>Forrest Gump</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>36</ID>
+<Character>Forrest Gump</Character>
+<Quality>running</Quality>
+</Qualities>
+<Qualities>
+<ID>36</ID>
+<Character>Forrest Gump</Character>
+<Quality>South</Quality>
+</Qualities>
+<Qualities>
+<ID>36</ID>
+<Character>Forrest Gump</Character>
+<Quality>sports</Quality>
+</Qualities>
+<Qualities>
+<ID>36</ID>
+<Character>Forrest Gump</Character>
+<Quality>war</Quality>
+</Qualities>
+<Qualities>
+<ID>37</ID>
+<Character>Frankenstein monster</Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>37</ID>
+<Character>Frankenstein monster</Character>
+<Quality>large</Quality>
+</Qualities>
+<Qualities>
+<ID>37</ID>
+<Character>Frankenstein monster</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>37</ID>
+<Character>Frankenstein monster</Character>
+<Quality>nature</Quality>
+</Qualities>
+<Qualities>
+<ID>37</ID>
+<Character>Frankenstein monster</Character>
+<Quality>revenge</Quality>
+</Qualities>
+<Qualities>
+<ID>37</ID>
+<Character>Frankenstein monster</Character>
+<Quality>sci-fi</Quality>
+</Qualities>
+<Qualities>
+<ID>37</ID>
+<Character>Frankenstein monster</Character>
+<Quality>superhuman</Quality>
+</Qualities>
+<Qualities>
+<ID>37</ID>
+<Character>Frankenstein monster</Character>
+<Quality>wander</Quality>
+</Qualities>
+<Qualities>
+<ID>38</ID>
+<Character>Fredo Corleone</Character>
+<Quality>brother</Quality>
+</Qualities>
+<Qualities>
+<ID>38</ID>
+<Character>Fredo Corleone</Character>
+<Quality>confidence</Quality>
+</Qualities>
+<Qualities>
+<ID>38</ID>
+<Character>Fredo Corleone</Character>
+<Quality>crime</Quality>
+</Qualities>
+<Qualities>
+<ID>38</ID>
+<Character>Fredo Corleone</Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>38</ID>
+<Character>Fredo Corleone</Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>38</ID>
+<Character>Fredo Corleone</Character>
+<Quality>law</Quality>
+</Qualities>
+<Qualities>
+<ID>38</ID>
+<Character>Fredo Corleone</Character>
+<Quality>New York</Quality>
+</Qualities>
+<Qualities>
+<ID>38</ID>
+<Character>Fredo Corleone</Character>
+<Quality>obedient</Quality>
+</Qualities>
+<Qualities>
+<ID>39</ID>
+<Character>Gart Williams</Character>
+<Quality>ambition</Quality>
+</Qualities>
+<Qualities>
+<ID>39</ID>
+<Character>Gart Williams</Character>
+<Quality>city worker</Quality>
+</Qualities>
+<Qualities>
+<ID>39</ID>
+<Character>Gart Williams</Character>
+<Quality>jobs</Quality>
+</Qualities>
+<Qualities>
+<ID>39</ID>
+<Character>Gart Williams</Character>
+<Quality>nature</Quality>
+</Qualities>
+<Qualities>
+<ID>39</ID>
+<Character>Gart Williams</Character>
+<Quality>New York</Quality>
+</Qualities>
+<Qualities>
+<ID>39</ID>
+<Character>Gart Williams</Character>
+<Quality>serenity</Quality>
+</Qualities>
+<Qualities>
+<ID>39</ID>
+<Character>Gart Williams</Character>
+<Quality>suicide</Quality>
+</Qualities>
+<Qualities>
+<ID>39</ID>
+<Character>Gart Williams</Character>
+<Quality>wife</Quality>
+</Qualities>
+<Qualities>
+<ID>40</ID>
+<Character>Gerty MacDowell</Character>
+<Quality>beauty</Quality>
+</Qualities>
+<Qualities>
+<ID>40</ID>
+<Character>Gerty MacDowell</Character>
+<Quality>dreams</Quality>
+</Qualities>
+<Qualities>
+<ID>40</ID>
+<Character>Gerty MacDowell</Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>40</ID>
+<Character>Gerty MacDowell</Character>
+<Quality>lame</Quality>
+</Qualities>
+<Qualities>
+<ID>40</ID>
+<Character>Gerty MacDowell</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>40</ID>
+<Character>Gerty MacDowell</Character>
+<Quality>sentimental</Quality>
+</Qualities>
+<Qualities>
+<ID>40</ID>
+<Character>Gerty MacDowell</Character>
+<Quality>wearing black</Quality>
+</Qualities>
+<Qualities>
+<ID>40</ID>
+<Character>Gerty MacDowell</Character>
+<Quality>young</Quality>
+</Qualities>
+<Qualities>
+<ID>41</ID>
+<Character>Girl</Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>41</ID>
+<Character>Girl</Character>
+<Quality>poverty</Quality>
+</Qualities>
+<Qualities>
+<ID>41</ID>
+<Character>Girl</Character>
+<Quality>prison</Quality>
+</Qualities>
+<Qualities>
+<ID>41</ID>
+<Character>Girl</Character>
+<Quality>rich</Quality>
+</Qualities>
+<Qualities>
+<ID>41</ID>
+<Character>Girl</Character>
+<Quality>uplifted</Quality>
+</Qualities>
+<Qualities>
+<ID>41</ID>
+<Character>Girl</Character>
+<Quality>war</Quality>
+</Qualities>
+<Qualities>
+<ID>41</ID>
+<Character>Girl</Character>
+<Quality>wife</Quality>
+</Qualities>
+<Qualities>
+<ID>41</ID>
+<Character>Girl</Character>
+<Quality>young</Quality>
+</Qualities>
+<Qualities>
+<ID>42</ID>
+<Character>H.E.R.</Character>
+<Quality>black</Quality>
+</Qualities>
+<Qualities>
+<ID>42</ID>
+<Character>H.E.R.</Character>
+<Quality>California</Quality>
+</Qualities>
+<Qualities>
+<ID>42</ID>
+<Character>H.E.R.</Character>
+<Quality>entertainment</Quality>
+</Qualities>
+<Qualities>
+<ID>42</ID>
+<Character>H.E.R.</Character>
+<Quality>ghetto</Quality>
+</Qualities>
+<Qualities>
+<ID>42</ID>
+<Character>H.E.R.</Character>
+<Quality>music</Quality>
+</Qualities>
+<Qualities>
+<ID>42</ID>
+<Character>H.E.R.</Character>
+<Quality>New York</Quality>
+</Qualities>
+<Qualities>
+<ID>42</ID>
+<Character>H.E.R.</Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>42</ID>
+<Character>H.E.R.</Character>
+<Quality>urban</Quality>
+</Qualities>
+<Qualities>
+<ID>43</ID>
+<Character>Hamlet</Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>43</ID>
+<Character>Hamlet</Character>
+<Quality>depressed</Quality>
+</Qualities>
+<Qualities>
+<ID>43</ID>
+<Character>Hamlet</Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>43</ID>
+<Character>Hamlet</Character>
+<Quality>friend</Quality>
+</Qualities>
+<Qualities>
+<ID>43</ID>
+<Character>Hamlet</Character>
+<Quality>intellectual</Quality>
+</Qualities>
+<Qualities>
+<ID>43</ID>
+<Character>Hamlet</Character>
+<Quality>revenge</Quality>
+</Qualities>
+<Qualities>
+<ID>43</ID>
+<Character>Hamlet</Character>
+<Quality>vanity</Quality>
+</Qualities>
+<Qualities>
+<ID>43</ID>
+<Character>Hamlet</Character>
+<Quality>wearing black</Quality>
+</Qualities>
+<Qualities>
+<ID>44</ID>
+<Character>Hannah</Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>44</ID>
+<Character>Hannah</Character>
+<Quality>ghetto</Quality>
+</Qualities>
+<Qualities>
+<ID>44</ID>
+<Character>Hannah</Character>
+<Quality>good vs. evil</Quality>
+</Qualities>
+<Qualities>
+<ID>44</ID>
+<Character>Hannah</Character>
+<Quality>poverty</Quality>
+</Qualities>
+<Qualities>
+<ID>44</ID>
+<Character>Hannah</Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>44</ID>
+<Character>Hannah</Character>
+<Quality>rural</Quality>
+</Qualities>
+<Qualities>
+<ID>44</ID>
+<Character>Hannah</Character>
+<Quality>uplifted</Quality>
+</Qualities>
+<Qualities>
+<ID>44</ID>
+<Character>Hannah</Character>
+<Quality>war</Quality>
+</Qualities>
+<Qualities>
+<ID>45</ID>
+<Character>Henry Corwin</Character>
+<Quality>alcohol</Quality>
+</Qualities>
+<Qualities>
+<ID>45</ID>
+<Character>Henry Corwin</Character>
+<Quality>ambition</Quality>
+</Qualities>
+<Qualities>
+<ID>45</ID>
+<Character>Henry Corwin</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>45</ID>
+<Character>Henry Corwin</Character>
+<Quality>Christmas</Quality>
+</Qualities>
+<Qualities>
+<ID>45</ID>
+<Character>Henry Corwin</Character>
+<Quality>middle-aged</Quality>
+</Qualities>
+<Qualities>
+<ID>45</ID>
+<Character>Henry Corwin</Character>
+<Quality>poverty</Quality>
+</Qualities>
+<Qualities>
+<ID>45</ID>
+<Character>Henry Corwin</Character>
+<Quality>purposeless</Quality>
+</Qualities>
+<Qualities>
+<ID>45</ID>
+<Character>Henry Corwin</Character>
+<Quality>television</Quality>
+</Qualities>
+<Qualities>
+<ID>46</ID>
+<Character>Hester Prynne</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>46</ID>
+<Character>Hester Prynne</Character>
+<Quality>freedom</Quality>
+</Qualities>
+<Qualities>
+<ID>46</ID>
+<Character>Hester Prynne</Character>
+<Quality>immorality</Quality>
+</Qualities>
+<Qualities>
+<ID>46</ID>
+<Character>Hester Prynne</Character>
+<Quality>mother</Quality>
+</Qualities>
+<Qualities>
+<ID>46</ID>
+<Character>Hester Prynne</Character>
+<Quality>New England</Quality>
+</Qualities>
+<Qualities>
+<ID>46</ID>
+<Character>Hester Prynne</Character>
+<Quality>outcast</Quality>
+</Qualities>
+<Qualities>
+<ID>46</ID>
+<Character>Hester Prynne</Character>
+<Quality>religion</Quality>
+</Qualities>
+<Qualities>
+<ID>46</ID>
+<Character>Hester Prynne</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>47</ID>
+<Character>Holden Caufield</Character>
+<Quality>bitter</Quality>
+</Qualities>
+<Qualities>
+<ID>47</ID>
+<Character>Holden Caufield</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>47</ID>
+<Character>Holden Caufield</Character>
+<Quality>depressed</Quality>
+</Qualities>
+<Qualities>
+<ID>47</ID>
+<Character>Holden Caufield</Character>
+<Quality>high school</Quality>
+</Qualities>
+<Qualities>
+<ID>47</ID>
+<Character>Holden Caufield</Character>
+<Quality>hospital</Quality>
+</Qualities>
+<Qualities>
+<ID>47</ID>
+<Character>Holden Caufield</Character>
+<Quality>innocence</Quality>
+</Qualities>
+<Qualities>
+<ID>47</ID>
+<Character>Holden Caufield</Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>47</ID>
+<Character>Holden Caufield</Character>
+<Quality>young</Quality>
+</Qualities>
+<Qualities>
+<ID>48</ID>
+<Character>Humboldt</Character>
+<Quality>alcohol</Quality>
+</Qualities>
+<Qualities>
+<ID>48</ID>
+<Character>Humboldt</Character>
+<Quality>Chicago</Quality>
+</Qualities>
+<Qualities>
+<ID>48</ID>
+<Character>Humboldt</Character>
+<Quality>finances</Quality>
+</Qualities>
+<Qualities>
+<ID>48</ID>
+<Character>Humboldt</Character>
+<Quality>friend</Quality>
+</Qualities>
+<Qualities>
+<ID>48</ID>
+<Character>Humboldt</Character>
+<Quality>intellectual</Quality>
+</Qualities>
+<Qualities>
+<ID>48</ID>
+<Character>Humboldt</Character>
+<Quality>newspaper</Quality>
+</Qualities>
+<Qualities>
+<ID>48</ID>
+<Character>Humboldt</Character>
+<Quality>old age</Quality>
+</Qualities>
+<Qualities>
+<ID>48</ID>
+<Character>Humboldt</Character>
+<Quality>poetry</Quality>
+</Qualities>
+<Qualities>
+<ID>49</ID>
+<Character>J. Alfred Prufrock</Character>
+<Quality>confidence</Quality>
+</Qualities>
+<Qualities>
+<ID>49</ID>
+<Character>J. Alfred Prufrock</Character>
+<Quality>inadequacy</Quality>
+</Qualities>
+<Qualities>
+<ID>49</ID>
+<Character>J. Alfred Prufrock</Character>
+<Quality>intellectual</Quality>
+</Qualities>
+<Qualities>
+<ID>49</ID>
+<Character>J. Alfred Prufrock</Character>
+<Quality>middle-aged</Quality>
+</Qualities>
+<Qualities>
+<ID>49</ID>
+<Character>J. Alfred Prufrock</Character>
+<Quality>Modernism</Quality>
+</Qualities>
+<Qualities>
+<ID>49</ID>
+<Character>J. Alfred Prufrock</Character>
+<Quality>poetry</Quality>
+</Qualities>
+<Qualities>
+<ID>49</ID>
+<Character>J. Alfred Prufrock</Character>
+<Quality>unsure</Quality>
+</Qualities>
+<Qualities>
+<ID>49</ID>
+<Character>J. Alfred Prufrock</Character>
+<Quality>urban</Quality>
+</Qualities>
+<Qualities>
+<ID>50</ID>
+<Character>James Evans</Character>
+<Quality>bitter</Quality>
+</Qualities>
+<Qualities>
+<ID>50</ID>
+<Character>James Evans</Character>
+<Quality>black</Quality>
+</Qualities>
+<Qualities>
+<ID>50</ID>
+<Character>James Evans</Character>
+<Quality>Chicago</Quality>
+</Qualities>
+<Qualities>
+<ID>50</ID>
+<Character>James Evans</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>50</ID>
+<Character>James Evans</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>50</ID>
+<Character>James Evans</Character>
+<Quality>ghetto</Quality>
+</Qualities>
+<Qualities>
+<ID>50</ID>
+<Character>James Evans</Character>
+<Quality>jobs</Quality>
+</Qualities>
+<Qualities>
+<ID>50</ID>
+<Character>James Evans</Character>
+<Quality>poverty</Quality>
+</Qualities>
+<Qualities>
+<ID>51</ID>
+<Character>Jay Gatsby</Character>
+<Quality>accident</Quality>
+</Qualities>
+<Qualities>
+<ID>51</ID>
+<Character>Jay Gatsby</Character>
+<Quality>alcohol</Quality>
+</Qualities>
+<Qualities>
+<ID>51</ID>
+<Character>Jay Gatsby</Character>
+<Quality>crime</Quality>
+</Qualities>
+<Qualities>
+<ID>51</ID>
+<Character>Jay Gatsby</Character>
+<Quality>meager origins</Quality>
+</Qualities>
+<Qualities>
+<ID>51</ID>
+<Character>Jay Gatsby</Character>
+<Quality>New York</Quality>
+</Qualities>
+<Qualities>
+<ID>51</ID>
+<Character>Jay Gatsby</Character>
+<Quality>rich</Quality>
+</Qualities>
+<Qualities>
+<ID>51</ID>
+<Character>Jay Gatsby</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>51</ID>
+<Character>Jay Gatsby</Character>
+<Quality>war</Quality>
+</Qualities>
+<Qualities>
+<ID>52</ID>
+<Character>Jerry Renault</Character>
+<Quality>against odds</Quality>
+</Qualities>
+<Qualities>
+<ID>52</ID>
+<Character>Jerry Renault</Character>
+<Quality>courage</Quality>
+</Qualities>
+<Qualities>
+<ID>52</ID>
+<Character>Jerry Renault</Character>
+<Quality>fear</Quality>
+</Qualities>
+<Qualities>
+<ID>52</ID>
+<Character>Jerry Renault</Character>
+<Quality>fight</Quality>
+</Qualities>
+<Qualities>
+<ID>52</ID>
+<Character>Jerry Renault</Character>
+<Quality>friend</Quality>
+</Qualities>
+<Qualities>
+<ID>52</ID>
+<Character>Jerry Renault</Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>52</ID>
+<Character>Jerry Renault</Character>
+<Quality>sacrifice</Quality>
+</Qualities>
+<Qualities>
+<ID>52</ID>
+<Character>Jerry Renault</Character>
+<Quality>young</Quality>
+</Qualities>
+<Qualities>
+<ID>53</ID>
+<Character>Jim Casey</Character>
+<Quality>California</Quality>
+</Qualities>
+<Qualities>
+<ID>53</ID>
+<Character>Jim Casey</Character>
+<Quality>journey</Quality>
+</Qualities>
+<Qualities>
+<ID>53</ID>
+<Character>Jim Casey</Character>
+<Quality>law</Quality>
+</Qualities>
+<Qualities>
+<ID>53</ID>
+<Character>Jim Casey</Character>
+<Quality>poverty</Quality>
+</Qualities>
+<Qualities>
+<ID>53</ID>
+<Character>Jim Casey</Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>53</ID>
+<Character>Jim Casey</Character>
+<Quality>religion</Quality>
+</Qualities>
+<Qualities>
+<ID>53</ID>
+<Character>Jim Casey</Character>
+<Quality>rural</Quality>
+</Qualities>
+<Qualities>
+<ID>53</ID>
+<Character>Jim Casey</Character>
+<Quality>wander</Quality>
+</Qualities>
+<Qualities>
+<ID>54</ID>
+<Character>Jim</Character>
+<Quality>black</Quality>
+</Qualities>
+<Qualities>
+<ID>54</ID>
+<Character>Jim</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>54</ID>
+<Character>Jim</Character>
+<Quality>crime</Quality>
+</Qualities>
+<Qualities>
+<ID>54</ID>
+<Character>Jim</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>54</ID>
+<Character>Jim</Character>
+<Quality>friend</Quality>
+</Qualities>
+<Qualities>
+<ID>54</ID>
+<Character>Jim</Character>
+<Quality>journey</Quality>
+</Qualities>
+<Qualities>
+<ID>54</ID>
+<Character>Jim</Character>
+<Quality>rural</Quality>
+</Qualities>
+<Qualities>
+<ID>54</ID>
+<Character>Jim</Character>
+<Quality>slavery</Quality>
+</Qualities>
+<Qualities>
+<ID>55</ID>
+<Character>Joan Clayton</Character>
+<Quality>California</Quality>
+</Qualities>
+<Qualities>
+<ID>55</ID>
+<Character>Joan Clayton</Character>
+<Quality>city worker</Quality>
+</Qualities>
+<Qualities>
+<ID>55</ID>
+<Character>Joan Clayton</Character>
+<Quality>dreams</Quality>
+</Qualities>
+<Qualities>
+<ID>55</ID>
+<Character>Joan Clayton</Character>
+<Quality>high intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>55</ID>
+<Character>Joan Clayton</Character>
+<Quality>law</Quality>
+</Qualities>
+<Qualities>
+<ID>55</ID>
+<Character>Joan Clayton</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>55</ID>
+<Character>Joan Clayton</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>55</ID>
+<Character>Joan Clayton</Character>
+<Quality>success</Quality>
+</Qualities>
+<Qualities>
+<ID>56</ID>
+<Character>Job</Character>
+<Quality>dashed hope</Quality>
+</Qualities>
+<Qualities>
+<ID>56</ID>
+<Character>Job</Character>
+<Quality>faith</Quality>
+</Qualities>
+<Qualities>
+<ID>56</ID>
+<Character>Job</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>56</ID>
+<Character>Job</Character>
+<Quality>religion</Quality>
+</Qualities>
+<Qualities>
+<ID>56</ID>
+<Character>Job</Character>
+<Quality>rich</Quality>
+</Qualities>
+<Qualities>
+<ID>56</ID>
+<Character>Job</Character>
+<Quality>sick</Quality>
+</Qualities>
+<Qualities>
+<ID>56</ID>
+<Character>Job</Character>
+<Quality>things of this world</Quality>
+</Qualities>
+<Qualities>
+<ID>56</ID>
+<Character>Job</Character>
+<Quality>vanity</Quality>
+</Qualities>
+<Qualities>
+<ID>57</ID>
+<Character>John Coffey</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>57</ID>
+<Character>John Coffey</Character>
+<Quality>electric chair</Quality>
+</Qualities>
+<Qualities>
+<ID>57</ID>
+<Character>John Coffey</Character>
+<Quality>fear</Quality>
+</Qualities>
+<Qualities>
+<ID>57</ID>
+<Character>John Coffey</Character>
+<Quality>film</Quality>
+</Qualities>
+<Qualities>
+<ID>57</ID>
+<Character>John Coffey</Character>
+<Quality>large</Quality>
+</Qualities>
+<Qualities>
+<ID>57</ID>
+<Character>John Coffey</Character>
+<Quality>prison</Quality>
+</Qualities>
+<Qualities>
+<ID>57</ID>
+<Character>John Coffey</Character>
+<Quality>South</Quality>
+</Qualities>
+<Qualities>
+<ID>57</ID>
+<Character>John Coffey</Character>
+<Quality>uneducated</Quality>
+</Qualities>
+<Qualities>
+<ID>58</ID>
+<Character>Jurgis</Character>
+<Quality>Chicago</Quality>
+</Qualities>
+<Qualities>
+<ID>58</ID>
+<Character>Jurgis</Character>
+<Quality>failure</Quality>
+</Qualities>
+<Qualities>
+<ID>58</ID>
+<Character>Jurgis</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>58</ID>
+<Character>Jurgis</Character>
+<Quality>foreign</Quality>
+</Qualities>
+<Qualities>
+<ID>58</ID>
+<Character>Jurgis</Character>
+<Quality>past</Quality>
+</Qualities>
+<Qualities>
+<ID>58</ID>
+<Character>Jurgis</Character>
+<Quality>politics</Quality>
+</Qualities>
+<Qualities>
+<ID>58</ID>
+<Character>Jurgis</Character>
+<Quality>poverty</Quality>
+</Qualities>
+<Qualities>
+<ID>58</ID>
+<Character>Jurgis</Character>
+<Quality>wander</Quality>
+</Qualities>
+<Qualities>
+<ID>59</ID>
+<Character>Kattrin</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>59</ID>
+<Character>Kattrin</Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>59</ID>
+<Character>Kattrin</Character>
+<Quality>journey</Quality>
+</Qualities>
+<Qualities>
+<ID>59</ID>
+<Character>Kattrin</Character>
+<Quality>mother</Quality>
+</Qualities>
+<Qualities>
+<ID>59</ID>
+<Character>Kattrin</Character>
+<Quality>mute</Quality>
+</Qualities>
+<Qualities>
+<ID>59</ID>
+<Character>Kattrin</Character>
+<Quality>sacrifice</Quality>
+</Qualities>
+<Qualities>
+<ID>59</ID>
+<Character>Kattrin</Character>
+<Quality>theatrical play</Quality>
+</Qualities>
+<Qualities>
+<ID>59</ID>
+<Character>Kattrin</Character>
+<Quality>war</Quality>
+</Qualities>
+<Qualities>
+<ID>60</ID>
+<Character>Laura Wingfield</Character>
+<Quality>beauty</Quality>
+</Qualities>
+<Qualities>
+<ID>60</ID>
+<Character>Laura Wingfield</Character>
+<Quality>brother</Quality>
+</Qualities>
+<Qualities>
+<ID>60</ID>
+<Character>Laura Wingfield</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>60</ID>
+<Character>Laura Wingfield</Character>
+<Quality>lame</Quality>
+</Qualities>
+<Qualities>
+<ID>60</ID>
+<Character>Laura Wingfield</Character>
+<Quality>mother</Quality>
+</Qualities>
+<Qualities>
+<ID>60</ID>
+<Character>Laura Wingfield</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>60</ID>
+<Character>Laura Wingfield</Character>
+<Quality>South</Quality>
+</Qualities>
+<Qualities>
+<ID>60</ID>
+<Character>Laura Wingfield</Character>
+<Quality>toy</Quality>
+</Qualities>
+<Qualities>
+<ID>61</ID>
+<Character>Lennie</Character>
+<Quality>friend</Quality>
+</Qualities>
+<Qualities>
+<ID>61</ID>
+<Character>Lennie</Character>
+<Quality>jobs</Quality>
+</Qualities>
+<Qualities>
+<ID>61</ID>
+<Character>Lennie</Character>
+<Quality>journey</Quality>
+</Qualities>
+<Qualities>
+<ID>61</ID>
+<Character>Lennie</Character>
+<Quality>large</Quality>
+</Qualities>
+<Qualities>
+<ID>61</ID>
+<Character>Lennie</Character>
+<Quality>low intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>61</ID>
+<Character>Lennie</Character>
+<Quality>novella</Quality>
+</Qualities>
+<Qualities>
+<ID>61</ID>
+<Character>Lennie</Character>
+<Quality>rural</Quality>
+</Qualities>
+<Qualities>
+<ID>61</ID>
+<Character>Lennie</Character>
+<Quality>wander</Quality>
+</Qualities>
+<Qualities>
+<ID>62</ID>
+<Character>Lucynell Crater</Character>
+<Quality>beauty</Quality>
+</Qualities>
+<Qualities>
+<ID>62</ID>
+<Character>Lucynell Crater</Character>
+<Quality>house chores</Quality>
+</Qualities>
+<Qualities>
+<ID>62</ID>
+<Character>Lucynell Crater</Character>
+<Quality>innocence</Quality>
+</Qualities>
+<Qualities>
+<ID>62</ID>
+<Character>Lucynell Crater</Character>
+<Quality>low intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>62</ID>
+<Character>Lucynell Crater</Character>
+<Quality>mother</Quality>
+</Qualities>
+<Qualities>
+<ID>62</ID>
+<Character>Lucynell Crater</Character>
+<Quality>mute</Quality>
+</Qualities>
+<Qualities>
+<ID>62</ID>
+<Character>Lucynell Crater</Character>
+<Quality>short story</Quality>
+</Qualities>
+<Qualities>
+<ID>62</ID>
+<Character>Lucynell Crater</Character>
+<Quality>South</Quality>
+</Qualities>
+<Qualities>
+<ID>63</ID>
+<Character>Maggie Fitzgerald</Character>
+<Quality>accident</Quality>
+</Qualities>
+<Qualities>
+<ID>63</ID>
+<Character>Maggie Fitzgerald</Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>63</ID>
+<Character>Maggie Fitzgerald</Character>
+<Quality>dog</Quality>
+</Qualities>
+<Qualities>
+<ID>63</ID>
+<Character>Maggie Fitzgerald</Character>
+<Quality>fame</Quality>
+</Qualities>
+<Qualities>
+<ID>63</ID>
+<Character>Maggie Fitzgerald</Character>
+<Quality>friend</Quality>
+</Qualities>
+<Qualities>
+<ID>63</ID>
+<Character>Maggie Fitzgerald</Character>
+<Quality>hospital</Quality>
+</Qualities>
+<Qualities>
+<ID>63</ID>
+<Character>Maggie Fitzgerald</Character>
+<Quality>small town</Quality>
+</Qualities>
+<Qualities>
+<ID>63</ID>
+<Character>Maggie Fitzgerald</Character>
+<Quality>sports</Quality>
+</Qualities>
+<Qualities>
+<ID>64</ID>
+<Character>Marilyn Cuberle</Character>
+<Quality>assimilation</Quality>
+</Qualities>
+<Qualities>
+<ID>64</ID>
+<Character>Marilyn Cuberle</Character>
+<Quality>beauty</Quality>
+</Qualities>
+<Qualities>
+<ID>64</ID>
+<Character>Marilyn Cuberle</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>64</ID>
+<Character>Marilyn Cuberle</Character>
+<Quality>future</Quality>
+</Qualities>
+<Qualities>
+<ID>64</ID>
+<Character>Marilyn Cuberle</Character>
+<Quality>poetry</Quality>
+</Qualities>
+<Qualities>
+<ID>64</ID>
+<Character>Marilyn Cuberle</Character>
+<Quality>reading</Quality>
+</Qualities>
+<Qualities>
+<ID>64</ID>
+<Character>Marilyn Cuberle</Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>64</ID>
+<Character>Marilyn Cuberle</Character>
+<Quality>sci-fi</Quality>
+</Qualities>
+<Qualities>
+<ID>65</ID>
+<Character>Marshall Will Kane</Character>
+<Quality>courage</Quality>
+</Qualities>
+<Qualities>
+<ID>65</ID>
+<Character>Marshall Will Kane</Character>
+<Quality>crime</Quality>
+</Qualities>
+<Qualities>
+<ID>65</ID>
+<Character>Marshall Will Kane</Character>
+<Quality>film</Quality>
+</Qualities>
+<Qualities>
+<ID>65</ID>
+<Character>Marshall Will Kane</Character>
+<Quality>gun</Quality>
+</Qualities>
+<Qualities>
+<ID>65</ID>
+<Character>Marshall Will Kane</Character>
+<Quality>law</Quality>
+</Qualities>
+<Qualities>
+<ID>65</ID>
+<Character>Marshall Will Kane</Character>
+<Quality>revenge</Quality>
+</Qualities>
+<Qualities>
+<ID>65</ID>
+<Character>Marshall Will Kane</Character>
+<Quality>small town</Quality>
+</Qualities>
+<Qualities>
+<ID>65</ID>
+<Character>Marshall Will Kane</Character>
+<Quality>wife</Quality>
+</Qualities>
+<Qualities>
+<ID>66</ID>
+<Character>Mother</Character>
+<Quality>black</Quality>
+</Qualities>
+<Qualities>
+<ID>66</ID>
+<Character>Mother</Character>
+<Quality>faith</Quality>
+</Qualities>
+<Qualities>
+<ID>66</ID>
+<Character>Mother</Character>
+<Quality>mother</Quality>
+</Qualities>
+<Qualities>
+<ID>66</ID>
+<Character>Mother</Character>
+<Quality>old age</Quality>
+</Qualities>
+<Qualities>
+<ID>66</ID>
+<Character>Mother</Character>
+<Quality>poverty</Quality>
+</Qualities>
+<Qualities>
+<ID>66</ID>
+<Character>Mother</Character>
+<Quality>religion</Quality>
+</Qualities>
+<Qualities>
+<ID>66</ID>
+<Character>Mother</Character>
+<Quality>sacrifice</Quality>
+</Qualities>
+<Qualities>
+<ID>66</ID>
+<Character>Mother</Character>
+<Quality>South</Quality>
+</Qualities>
+<Qualities>
+<ID>67</ID>
+<Character>Mr. Freeze</Character>
+<Quality>accident</Quality>
+</Qualities>
+<Qualities>
+<ID>67</ID>
+<Character>Mr. Freeze</Character>
+<Quality>animated</Quality>
+</Qualities>
+<Qualities>
+<ID>67</ID>
+<Character>Mr. Freeze</Character>
+<Quality>bitter</Quality>
+</Qualities>
+<Qualities>
+<ID>67</ID>
+<Character>Mr. Freeze</Character>
+<Quality>crime</Quality>
+</Qualities>
+<Qualities>
+<ID>67</ID>
+<Character>Mr. Freeze</Character>
+<Quality>high intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>67</ID>
+<Character>Mr. Freeze</Character>
+<Quality>revenge</Quality>
+</Qualities>
+<Qualities>
+<ID>67</ID>
+<Character>Mr. Freeze</Character>
+<Quality>toy</Quality>
+</Qualities>
+<Qualities>
+<ID>67</ID>
+<Character>Mr. Freeze</Character>
+<Quality>wife</Quality>
+</Qualities>
+<Qualities>
+<ID>68</ID>
+<Character>Mr. Smith</Character>
+<Quality>against odds</Quality>
+</Qualities>
+<Qualities>
+<ID>68</ID>
+<Character>Mr. Smith</Character>
+<Quality>courage</Quality>
+</Qualities>
+<Qualities>
+<ID>68</ID>
+<Character>Mr. Smith</Character>
+<Quality>failure</Quality>
+</Qualities>
+<Qualities>
+<ID>68</ID>
+<Character>Mr. Smith</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>68</ID>
+<Character>Mr. Smith</Character>
+<Quality>politics</Quality>
+</Qualities>
+<Qualities>
+<ID>68</ID>
+<Character>Mr. Smith</Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>68</ID>
+<Character>Mr. Smith</Character>
+<Quality>small town</Quality>
+</Qualities>
+<Qualities>
+<ID>68</ID>
+<Character>Mr. Smith</Character>
+<Quality>uplifted</Quality>
+</Qualities>
+<Qualities>
+<ID>69</ID>
+<Character>Mr. Spock</Character>
+<Quality>alien</Quality>
+</Qualities>
+<Qualities>
+<ID>69</ID>
+<Character>Mr. Spock</Character>
+<Quality>future</Quality>
+</Qualities>
+<Qualities>
+<ID>69</ID>
+<Character>Mr. Spock</Character>
+<Quality>high intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>69</ID>
+<Character>Mr. Spock</Character>
+<Quality>learning</Quality>
+</Qualities>
+<Qualities>
+<ID>69</ID>
+<Character>Mr. Spock</Character>
+<Quality>sci-fi</Quality>
+</Qualities>
+<Qualities>
+<ID>69</ID>
+<Character>Mr. Spock</Character>
+<Quality>ship</Quality>
+</Qualities>
+<Qualities>
+<ID>69</ID>
+<Character>Mr. Spock</Character>
+<Quality>space</Quality>
+</Qualities>
+<Qualities>
+<ID>69</ID>
+<Character>Mr. Spock</Character>
+<Quality>superhuman</Quality>
+</Qualities>
+<Qualities>
+<ID>70</ID>
+<Character>Mrs. Ramsay</Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>70</ID>
+<Character>Mrs. Ramsay</Character>
+<Quality>intellectual</Quality>
+</Qualities>
+<Qualities>
+<ID>70</ID>
+<Character>Mrs. Ramsay</Character>
+<Quality>middle-aged</Quality>
+</Qualities>
+<Qualities>
+<ID>70</ID>
+<Character>Mrs. Ramsay</Character>
+<Quality>Modernism</Quality>
+</Qualities>
+<Qualities>
+<ID>70</ID>
+<Character>Mrs. Ramsay</Character>
+<Quality>mother</Quality>
+</Qualities>
+<Qualities>
+<ID>70</ID>
+<Character>Mrs. Ramsay</Character>
+<Quality>rich</Quality>
+</Qualities>
+<Qualities>
+<ID>70</ID>
+<Character>Mrs. Ramsay</Character>
+<Quality>thoughts</Quality>
+</Qualities>
+<Qualities>
+<ID>70</ID>
+<Character>Mrs. Ramsay</Character>
+<Quality>vacation</Quality>
+</Qualities>
+<Qualities>
+<ID>71</ID>
+<Character>Fox Mulder</Character>
+<Quality>alien</Quality>
+</Qualities>
+<Qualities>
+<ID>71</ID>
+<Character>Fox Mulder</Character>
+<Quality>ambition</Quality>
+</Qualities>
+<Qualities>
+<ID>71</ID>
+<Character>Fox Mulder</Character>
+<Quality>brother</Quality>
+</Qualities>
+<Qualities>
+<ID>71</ID>
+<Character>Fox Mulder</Character>
+<Quality>gun</Quality>
+</Qualities>
+<Qualities>
+<ID>71</ID>
+<Character>Fox Mulder</Character>
+<Quality>law</Quality>
+</Qualities>
+<Qualities>
+<ID>71</ID>
+<Character>Fox Mulder</Character>
+<Quality>partner</Quality>
+</Qualities>
+<Qualities>
+<ID>71</ID>
+<Character>Fox Mulder</Character>
+<Quality>sacrifice</Quality>
+</Qualities>
+<Qualities>
+<ID>71</ID>
+<Character>Fox Mulder</Character>
+<Quality>sci-fi</Quality>
+</Qualities>
+<Qualities>
+<ID>72</ID>
+<Character>Musician</Character>
+<Quality>black</Quality>
+</Qualities>
+<Qualities>
+<ID>72</ID>
+<Character>Musician</Character>
+<Quality>entertainment</Quality>
+</Qualities>
+<Qualities>
+<ID>72</ID>
+<Character>Musician</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>72</ID>
+<Character>Musician</Character>
+<Quality>music</Quality>
+</Qualities>
+<Qualities>
+<ID>72</ID>
+<Character>Musician</Character>
+<Quality>New York</Quality>
+</Qualities>
+<Qualities>
+<ID>72</ID>
+<Character>Musician</Character>
+<Quality>poetry</Quality>
+</Qualities>
+<Qualities>
+<ID>72</ID>
+<Character>Musician</Character>
+<Quality>sentimental</Quality>
+</Qualities>
+<Qualities>
+<ID>72</ID>
+<Character>Musician</Character>
+<Quality>thoughts</Quality>
+</Qualities>
+<Qualities>
+<ID>73</ID>
+<Character>Newman </Character>
+<Quality>antics</Quality>
+</Qualities>
+<Qualities>
+<ID>73</ID>
+<Character>Newman </Character>
+<Quality>bitter</Quality>
+</Qualities>
+<Qualities>
+<ID>73</ID>
+<Character>Newman </Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>73</ID>
+<Character>Newman </Character>
+<Quality>madness</Quality>
+</Qualities>
+<Qualities>
+<ID>73</ID>
+<Character>Newman </Character>
+<Quality>neighbor</Quality>
+</Qualities>
+<Qualities>
+<ID>73</ID>
+<Character>Newman </Character>
+<Quality>New York</Quality>
+</Qualities>
+<Qualities>
+<ID>73</ID>
+<Character>Newman </Character>
+<Quality>poetry</Quality>
+</Qualities>
+<Qualities>
+<ID>73</ID>
+<Character>Newman </Character>
+<Quality>revenge</Quality>
+</Qualities>
+<Qualities>
+<ID>74</ID>
+<Character>Obscure Youth</Character>
+<Quality>ambition</Quality>
+</Qualities>
+<Qualities>
+<ID>74</ID>
+<Character>Obscure Youth</Character>
+<Quality>depressed</Quality>
+</Qualities>
+<Qualities>
+<ID>74</ID>
+<Character>Obscure Youth</Character>
+<Quality>dreams</Quality>
+</Qualities>
+<Qualities>
+<ID>74</ID>
+<Character>Obscure Youth</Character>
+<Quality>fame</Quality>
+</Qualities>
+<Qualities>
+<ID>74</ID>
+<Character>Obscure Youth</Character>
+<Quality>future</Quality>
+</Qualities>
+<Qualities>
+<ID>74</ID>
+<Character>Obscure Youth</Character>
+<Quality>poetry</Quality>
+</Qualities>
+<Qualities>
+<ID>74</ID>
+<Character>Obscure Youth</Character>
+<Quality>vanity</Quality>
+</Qualities>
+<Qualities>
+<ID>74</ID>
+<Character>Obscure Youth</Character>
+<Quality>wander</Quality>
+</Qualities>
+<Qualities>
+<ID>75</ID>
+<Character>Perth</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>75</ID>
+<Character>Perth</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>75</ID>
+<Character>Perth</Character>
+<Quality>lame</Quality>
+</Qualities>
+<Qualities>
+<ID>75</ID>
+<Character>Perth</Character>
+<Quality>purposeless</Quality>
+</Qualities>
+<Qualities>
+<ID>75</ID>
+<Character>Perth</Character>
+<Quality>quiet </Quality>
+</Qualities>
+<Qualities>
+<ID>75</ID>
+<Character>Perth</Character>
+<Quality>sea</Quality>
+</Qualities>
+<Qualities>
+<ID>75</ID>
+<Character>Perth</Character>
+<Quality>ship</Quality>
+</Qualities>
+<Qualities>
+<ID>75</ID>
+<Character>Perth</Character>
+<Quality>wife</Quality>
+</Qualities>
+<Qualities>
+<ID>76</ID>
+<Character>Quasimodo</Character>
+<Quality>crime</Quality>
+</Qualities>
+<Qualities>
+<ID>76</ID>
+<Character>Quasimodo</Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>76</ID>
+<Character>Quasimodo</Character>
+<Quality>giving to others</Quality>
+</Qualities>
+<Qualities>
+<ID>76</ID>
+<Character>Quasimodo</Character>
+<Quality>good vs. evil</Quality>
+</Qualities>
+<Qualities>
+<ID>76</ID>
+<Character>Quasimodo</Character>
+<Quality>low intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>76</ID>
+<Character>Quasimodo</Character>
+<Quality>monster</Quality>
+</Qualities>
+<Qualities>
+<ID>76</ID>
+<Character>Quasimodo</Character>
+<Quality>outcast</Quality>
+</Qualities>
+<Qualities>
+<ID>76</ID>
+<Character>Quasimodo</Character>
+<Quality>unrequited love</Quality>
+</Qualities>
+<Qualities>
+<ID>77</ID>
+<Character>Rendezvous Guy</Character>
+<Quality>depressed</Quality>
+</Qualities>
+<Qualities>
+<ID>77</ID>
+<Character>Rendezvous Guy</Character>
+<Quality>flower</Quality>
+</Qualities>
+<Qualities>
+<ID>77</ID>
+<Character>Rendezvous Guy</Character>
+<Quality>innocence</Quality>
+</Qualities>
+<Qualities>
+<ID>77</ID>
+<Character>Rendezvous Guy</Character>
+<Quality>poetry</Quality>
+</Qualities>
+<Qualities>
+<ID>77</ID>
+<Character>Rendezvous Guy</Character>
+<Quality>religion</Quality>
+</Qualities>
+<Qualities>
+<ID>77</ID>
+<Character>Rendezvous Guy</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>77</ID>
+<Character>Rendezvous Guy</Character>
+<Quality>waiting</Quality>
+</Qualities>
+<Qualities>
+<ID>77</ID>
+<Character>Rendezvous Guy</Character>
+<Quality>young</Quality>
+</Qualities>
+<Qualities>
+<ID>78</ID>
+<Character>Robert Barone</Character>
+<Quality>brother</Quality>
+</Qualities>
+<Qualities>
+<ID>78</ID>
+<Character>Robert Barone</Character>
+<Quality>dance</Quality>
+</Qualities>
+<Qualities>
+<ID>78</ID>
+<Character>Robert Barone</Character>
+<Quality>depressed</Quality>
+</Qualities>
+<Qualities>
+<ID>78</ID>
+<Character>Robert Barone</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>78</ID>
+<Character>Robert Barone</Character>
+<Quality>large</Quality>
+</Qualities>
+<Qualities>
+<ID>78</ID>
+<Character>Robert Barone</Character>
+<Quality>law</Quality>
+</Qualities>
+<Qualities>
+<ID>78</ID>
+<Character>Robert Barone</Character>
+<Quality>New York</Quality>
+</Qualities>
+<Qualities>
+<ID>78</ID>
+<Character>Robert Barone</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>79</ID>
+<Character>Rogue </Character>
+<Quality>animated</Quality>
+</Qualities>
+<Qualities>
+<ID>79</ID>
+<Character>Rogue </Character>
+<Quality>fight</Quality>
+</Qualities>
+<Qualities>
+<ID>79</ID>
+<Character>Rogue </Character>
+<Quality>giving to others</Quality>
+</Qualities>
+<Qualities>
+<ID>79</ID>
+<Character>Rogue </Character>
+<Quality>good vs. evil</Quality>
+</Qualities>
+<Qualities>
+<ID>79</ID>
+<Character>Rogue </Character>
+<Quality>innocence</Quality>
+</Qualities>
+<Qualities>
+<ID>79</ID>
+<Character>Rogue </Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>79</ID>
+<Character>Rogue </Character>
+<Quality>South</Quality>
+</Qualities>
+<Qualities>
+<ID>79</ID>
+<Character>Rogue </Character>
+<Quality>superhuman</Quality>
+</Qualities>
+<Qualities>
+<ID>80</ID>
+<Character>Roz Doyle</Character>
+<Quality>city worker</Quality>
+</Qualities>
+<Qualities>
+<ID>80</ID>
+<Character>Roz Doyle</Character>
+<Quality>entertainment</Quality>
+</Qualities>
+<Qualities>
+<ID>80</ID>
+<Character>Roz Doyle</Character>
+<Quality>friend</Quality>
+</Qualities>
+<Qualities>
+<ID>80</ID>
+<Character>Roz Doyle</Character>
+<Quality>middle-age</Quality>
+</Qualities>
+<Qualities>
+<ID>80</ID>
+<Character>Roz Doyle</Character>
+<Quality>mother</Quality>
+</Qualities>
+<Qualities>
+<ID>80</ID>
+<Character>Roz Doyle</Character>
+<Quality>rich</Quality>
+</Qualities>
+<Qualities>
+<ID>80</ID>
+<Character>Roz Doyle</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>80</ID>
+<Character>Roz Doyle</Character>
+<Quality>sitcom</Quality>
+</Qualities>
+<Qualities>
+<ID>81</ID>
+<Character>Ruth Younger</Character>
+<Quality>baby </Quality>
+</Qualities>
+<Qualities>
+<ID>81</ID>
+<Character>Ruth Younger</Character>
+<Quality>bitter </Quality>
+</Qualities>
+<Qualities>
+<ID>81</ID>
+<Character>Ruth Younger</Character>
+<Quality>Chicago</Quality>
+</Qualities>
+<Qualities>
+<ID>81</ID>
+<Character>Ruth Younger</Character>
+<Quality>finances</Quality>
+</Qualities>
+<Qualities>
+<ID>81</ID>
+<Character>Ruth Younger</Character>
+<Quality>house chores</Quality>
+</Qualities>
+<Qualities>
+<ID>81</ID>
+<Character>Ruth Younger</Character>
+<Quality>mother</Quality>
+</Qualities>
+<Qualities>
+<ID>81</ID>
+<Character>Ruth Younger</Character>
+<Quality>poverty</Quality>
+</Qualities>
+<Qualities>
+<ID>81</ID>
+<Character>Ruth Younger</Character>
+<Quality>theatrical play</Quality>
+</Qualities>
+<Qualities>
+<ID>82</ID>
+<Character>Santiago</Character>
+<Quality>ambition</Quality>
+</Qualities>
+<Qualities>
+<ID>82</ID>
+<Character>Santiago</Character>
+<Quality>failure</Quality>
+</Qualities>
+<Qualities>
+<ID>82</ID>
+<Character>Santiago</Character>
+<Quality>foreign</Quality>
+</Qualities>
+<Qualities>
+<ID>82</ID>
+<Character>Santiago</Character>
+<Quality>novella</Quality>
+</Qualities>
+<Qualities>
+<ID>82</ID>
+<Character>Santiago</Character>
+<Quality>old age</Quality>
+</Qualities>
+<Qualities>
+<ID>82</ID>
+<Character>Santiago</Character>
+<Quality>sea</Quality>
+</Qualities>
+<Qualities>
+<ID>82</ID>
+<Character>Santiago</Character>
+<Quality>uplifted</Quality>
+</Qualities>
+<Qualities>
+<ID>82</ID>
+<Character>Santiago</Character>
+<Quality>waiting</Quality>
+</Qualities>
+<Qualities>
+<ID>83</ID>
+<Character>Seven of Nine</Character>
+<Quality>future</Quality>
+</Qualities>
+<Qualities>
+<ID>83</ID>
+<Character>Seven of Nine</Character>
+<Quality>individuality</Quality>
+</Qualities>
+<Qualities>
+<ID>83</ID>
+<Character>Seven of Nine</Character>
+<Quality>learning</Quality>
+</Qualities>
+<Qualities>
+<ID>83</ID>
+<Character>Seven of Nine</Character>
+<Quality>machine</Quality>
+</Qualities>
+<Qualities>
+<ID>83</ID>
+<Character>Seven of Nine</Character>
+<Quality>sci-fi</Quality>
+</Qualities>
+<Qualities>
+<ID>83</ID>
+<Character>Seven of Nine</Character>
+<Quality>ship</Quality>
+</Qualities>
+<Qualities>
+<ID>83</ID>
+<Character>Seven of Nine</Character>
+<Quality>space</Quality>
+</Qualities>
+<Qualities>
+<ID>83</ID>
+<Character>Seven of Nine</Character>
+<Quality>television</Quality>
+</Qualities>
+<Qualities>
+<ID>84</ID>
+<Character>Silver Surfer</Character>
+<Quality>alien</Quality>
+</Qualities>
+<Qualities>
+<ID>84</ID>
+<Character>Silver Surfer</Character>
+<Quality>animated</Quality>
+</Qualities>
+<Qualities>
+<ID>84</ID>
+<Character>Silver Surfer</Character>
+<Quality>good vs evil</Quality>
+</Qualities>
+<Qualities>
+<ID>84</ID>
+<Character>Silver Surfer</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>84</ID>
+<Character>Silver Surfer</Character>
+<Quality>prison</Quality>
+</Qualities>
+<Qualities>
+<ID>84</ID>
+<Character>Silver Surfer</Character>
+<Quality>sacrifice</Quality>
+</Qualities>
+<Qualities>
+<ID>84</ID>
+<Character>Silver Surfer</Character>
+<Quality>space</Quality>
+</Qualities>
+<Qualities>
+<ID>84</ID>
+<Character>Silver Surfer</Character>
+<Quality>stranger</Quality>
+</Qualities>
+<Qualities>
+<ID>85</ID>
+<Character>Soap Opera Girl</Character>
+<Quality>animated</Quality>
+</Qualities>
+<Qualities>
+<ID>85</ID>
+<Character>Soap Opera Girl</Character>
+<Quality>dreams</Quality>
+</Qualities>
+<Qualities>
+<ID>85</ID>
+<Character>Soap Opera Girl</Character>
+<Quality>entertainment</Quality>
+</Qualities>
+<Qualities>
+<ID>85</ID>
+<Character>Soap Opera Girl</Character>
+<Quality>film</Quality>
+</Qualities>
+<Qualities>
+<ID>85</ID>
+<Character>Soap Opera Girl</Character>
+<Quality>politeness</Quality>
+</Qualities>
+<Qualities>
+<ID>85</ID>
+<Character>Soap Opera Girl</Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>85</ID>
+<Character>Soap Opera Girl</Character>
+<Quality>stranger</Quality>
+</Qualities>
+<Qualities>
+<ID>85</ID>
+<Character>Soap Opera Girl</Character>
+<Quality>train</Quality>
+</Qualities>
+<Qualities>
+<ID>86</ID>
+<Character>Soldier Boy</Character>
+<Quality>alcohol</Quality>
+</Qualities>
+<Qualities>
+<ID>86</ID>
+<Character>Soldier Boy</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>86</ID>
+<Character>Soldier Boy</Character>
+<Quality>gun</Quality>
+</Qualities>
+<Qualities>
+<ID>86</ID>
+<Character>Soldier Boy</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>86</ID>
+<Character>Soldier Boy</Character>
+<Quality>music</Quality>
+</Qualities>
+<Qualities>
+<ID>86</ID>
+<Character>Soldier Boy</Character>
+<Quality>poetry</Quality>
+</Qualities>
+<Qualities>
+<ID>86</ID>
+<Character>Soldier Boy</Character>
+<Quality>suicide</Quality>
+</Qualities>
+<Qualities>
+<ID>86</ID>
+<Character>Soldier Boy</Character>
+<Quality>war</Quality>
+</Qualities>
+<Qualities>
+<ID>87</ID>
+<Character>Speaker, A Winter Piece</Character>
+<Quality>depressed</Quality>
+</Qualities>
+<Qualities>
+<ID>87</ID>
+<Character>Speaker, A Winter Piece</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>87</ID>
+<Character>Speaker, A Winter Piece</Character>
+<Quality>nature</Quality>
+</Qualities>
+<Qualities>
+<ID>87</ID>
+<Character>Speaker, A Winter Piece</Character>
+<Quality>poetry</Quality>
+</Qualities>
+<Qualities>
+<ID>87</ID>
+<Character>Speaker, A Winter Piece</Character>
+<Quality>serenity</Quality>
+</Qualities>
+<Qualities>
+<ID>87</ID>
+<Character>Speaker, A Winter Piece</Character>
+<Quality>things of this world</Quality>
+</Qualities>
+<Qualities>
+<ID>87</ID>
+<Character>Speaker, A Winter Piece</Character>
+<Quality>uplifted</Quality>
+</Qualities>
+<Qualities>
+<ID>87</ID>
+<Character>Speaker, A Winter Piece</Character>
+<Quality>vanity</Quality>
+</Qualities>
+<Qualities>
+<ID>88</ID>
+<Character>Speaker, The Suicide</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>88</ID>
+<Character>Speaker, The Suicide</Character>
+<Quality>depressed</Quality>
+</Qualities>
+<Qualities>
+<ID>88</ID>
+<Character>Speaker, The Suicide</Character>
+<Quality>dreams</Quality>
+</Qualities>
+<Qualities>
+<ID>88</ID>
+<Character>Speaker, The Suicide</Character>
+<Quality>father</Quality>
+</Qualities>
+<Qualities>
+<ID>88</ID>
+<Character>Speaker, The Suicide</Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>88</ID>
+<Character>Speaker, The Suicide</Character>
+<Quality>music</Quality>
+</Qualities>
+<Qualities>
+<ID>88</ID>
+<Character>Speaker, The Suicide</Character>
+<Quality>serenity</Quality>
+</Qualities>
+<Qualities>
+<ID>88</ID>
+<Character>Speaker, The Suicide</Character>
+<Quality>uplifted</Quality>
+</Qualities>
+<Qualities>
+<ID>89</ID>
+<Character>Spiderman</Character>
+<Quality>confidence</Quality>
+</Qualities>
+<Qualities>
+<ID>89</ID>
+<Character>Spiderman</Character>
+<Quality>crime</Quality>
+</Qualities>
+<Qualities>
+<ID>89</ID>
+<Character>Spiderman</Character>
+<Quality>giving to others</Quality>
+</Qualities>
+<Qualities>
+<ID>89</ID>
+<Character>Spiderman</Character>
+<Quality>good vs. evil</Quality>
+</Qualities>
+<Qualities>
+<ID>89</ID>
+<Character>Spiderman</Character>
+<Quality>high intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>89</ID>
+<Character>Spiderman</Character>
+<Quality>nerd</Quality>
+</Qualities>
+<Qualities>
+<ID>89</ID>
+<Character>Spiderman</Character>
+<Quality>sacrifice</Quality>
+</Qualities>
+<Qualities>
+<ID>89</ID>
+<Character>Spiderman</Character>
+<Quality>superhuman</Quality>
+</Qualities>
+<Qualities>
+<ID>90</ID>
+<Character>Steve Urkel</Character>
+<Quality>Chicago</Quality>
+</Qualities>
+<Qualities>
+<ID>90</ID>
+<Character>Steve Urkel</Character>
+<Quality>confidence</Quality>
+</Qualities>
+<Qualities>
+<ID>90</ID>
+<Character>Steve Urkel</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>90</ID>
+<Character>Steve Urkel</Character>
+<Quality>giving to others</Quality>
+</Qualities>
+<Qualities>
+<ID>90</ID>
+<Character>Steve Urkel</Character>
+<Quality>high intelligence</Quality>
+</Qualities>
+<Qualities>
+<ID>90</ID>
+<Character>Steve Urkel</Character>
+<Quality>neighbor</Quality>
+</Qualities>
+<Qualities>
+<ID>90</ID>
+<Character>Steve Urkel</Character>
+<Quality>nerd</Quality>
+</Qualities>
+<Qualities>
+<ID>90</ID>
+<Character>Steve Urkel</Character>
+<Quality>young</Quality>
+</Qualities>
+<Qualities>
+<ID>91</ID>
+<Character>The Terminator</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>91</ID>
+<Character>The Terminator</Character>
+<Quality>future</Quality>
+</Qualities>
+<Qualities>
+<ID>91</ID>
+<Character>The Terminator</Character>
+<Quality>good vs. evil</Quality>
+</Qualities>
+<Qualities>
+<ID>91</ID>
+<Character>The Terminator</Character>
+<Quality>gun</Quality>
+</Qualities>
+<Qualities>
+<ID>91</ID>
+<Character>The Terminator</Character>
+<Quality>law</Quality>
+</Qualities>
+<Qualities>
+<ID>91</ID>
+<Character>The Terminator</Character>
+<Quality>learning</Quality>
+</Qualities>
+<Qualities>
+<ID>91</ID>
+<Character>The Terminator</Character>
+<Quality>machine</Quality>
+</Qualities>
+<Qualities>
+<ID>91</ID>
+<Character>The Terminator</Character>
+<Quality>sacrifice</Quality>
+</Qualities>
+<Qualities>
+<ID>92</ID>
+<Character>The Thing</Character>
+<Quality>accident</Quality>
+</Qualities>
+<Qualities>
+<ID>92</ID>
+<Character>The Thing</Character>
+<Quality>appearance</Quality>
+</Qualities>
+<Qualities>
+<ID>92</ID>
+<Character>The Thing</Character>
+<Quality>blind</Quality>
+</Qualities>
+<Qualities>
+<ID>92</ID>
+<Character>The Thing</Character>
+<Quality>good vs. evil</Quality>
+</Qualities>
+<Qualities>
+<ID>92</ID>
+<Character>The Thing</Character>
+<Quality>loss</Quality>
+</Qualities>
+<Qualities>
+<ID>92</ID>
+<Character>The Thing</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>92</ID>
+<Character>The Thing</Character>
+<Quality>space</Quality>
+</Qualities>
+<Qualities>
+<ID>92</ID>
+<Character>The Thing</Character>
+<Quality>superhuman</Quality>
+</Qualities>
+<Qualities>
+<ID>93</ID>
+<Character>The Tramp</Character>
+<Quality>antics</Quality>
+</Qualities>
+<Qualities>
+<ID>93</ID>
+<Character>The Tramp</Character>
+<Quality>city worker</Quality>
+</Qualities>
+<Qualities>
+<ID>93</ID>
+<Character>The Tramp</Character>
+<Quality>mute</Quality>
+</Qualities>
+<Qualities>
+<ID>93</ID>
+<Character>The Tramp</Character>
+<Quality>past</Quality>
+</Qualities>
+<Qualities>
+<ID>93</ID>
+<Character>The Tramp</Character>
+<Quality>politeness</Quality>
+</Qualities>
+<Qualities>
+<ID>93</ID>
+<Character>The Tramp</Character>
+<Quality>poverty</Quality>
+</Qualities>
+<Qualities>
+<ID>93</ID>
+<Character>The Tramp</Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>93</ID>
+<Character>The Tramp</Character>
+<Quality>uplifted</Quality>
+</Qualities>
+<Qualities>
+<ID>94</ID>
+<Character>Thereza Ambrose</Character>
+<Quality>confidence</Quality>
+</Qualities>
+<Qualities>
+<ID>94</ID>
+<Character>Thereza Ambrose</Character>
+<Quality>depressed</Quality>
+</Qualities>
+<Qualities>
+<ID>94</ID>
+<Character>Thereza Ambrose</Character>
+<Quality>entertainment</Quality>
+</Qualities>
+<Qualities>
+<ID>94</ID>
+<Character>Thereza Ambrose</Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>94</ID>
+<Character>Thereza Ambrose</Character>
+<Quality>music</Quality>
+</Qualities>
+<Qualities>
+<ID>94</ID>
+<Character>Thereza Ambrose</Character>
+<Quality>partner</Quality>
+</Qualities>
+<Qualities>
+<ID>94</ID>
+<Character>Thereza Ambrose</Character>
+<Quality>suicide</Quality>
+</Qualities>
+<Qualities>
+<ID>94</ID>
+<Character>Thereza Ambrose</Character>
+<Quality>uplifted</Quality>
+</Qualities>
+<Qualities>
+<ID>95</ID>
+<Character>Tiny Tim</Character>
+<Quality>child</Quality>
+</Qualities>
+<Qualities>
+<ID>95</ID>
+<Character>Tiny Tim</Character>
+<Quality>Christmas</Quality>
+</Qualities>
+<Qualities>
+<ID>95</ID>
+<Character>Tiny Tim</Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>95</ID>
+<Character>Tiny Tim</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>95</ID>
+<Character>Tiny Tim</Character>
+<Quality>lame</Quality>
+</Qualities>
+<Qualities>
+<ID>95</ID>
+<Character>Tiny Tim</Character>
+<Quality>poverty</Quality>
+</Qualities>
+<Qualities>
+<ID>95</ID>
+<Character>Tiny Tim</Character>
+<Quality>religion</Quality>
+</Qualities>
+<Qualities>
+<ID>95</ID>
+<Character>Tiny Tim</Character>
+<Quality>urban</Quality>
+</Qualities>
+<Qualities>
+<ID>96</ID>
+<Character>Tod Clifton</Character>
+<Quality>dashed hope</Quality>
+</Qualities>
+<Qualities>
+<ID>96</ID>
+<Character>Tod Clifton</Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>96</ID>
+<Character>Tod Clifton</Character>
+<Quality>gun</Quality>
+</Qualities>
+<Qualities>
+<ID>96</ID>
+<Character>Tod Clifton</Character>
+<Quality>law</Quality>
+</Qualities>
+<Qualities>
+<ID>96</ID>
+<Character>Tod Clifton</Character>
+<Quality>politics</Quality>
+</Qualities>
+<Qualities>
+<ID>96</ID>
+<Character>Tod Clifton</Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>96</ID>
+<Character>Tod Clifton</Character>
+<Quality>speaker</Quality>
+</Qualities>
+<Qualities>
+<ID>96</ID>
+<Character>Tod Clifton</Character>
+<Quality>young</Quality>
+</Qualities>
+<Qualities>
+<ID>97</ID>
+<Character>Tommy Wilhelm</Character>
+<Quality>city worker</Quality>
+</Qualities>
+<Qualities>
+<ID>97</ID>
+<Character>Tommy Wilhelm</Character>
+<Quality>failure</Quality>
+</Qualities>
+<Qualities>
+<ID>97</ID>
+<Character>Tommy Wilhelm</Character>
+<Quality>father </Quality>
+</Qualities>
+<Qualities>
+<ID>97</ID>
+<Character>Tommy Wilhelm</Character>
+<Quality>fear</Quality>
+</Qualities>
+<Qualities>
+<ID>97</ID>
+<Character>Tommy Wilhelm</Character>
+<Quality>finances</Quality>
+</Qualities>
+<Qualities>
+<ID>97</ID>
+<Character>Tommy Wilhelm</Character>
+<Quality>New York</Quality>
+</Qualities>
+<Qualities>
+<ID>97</ID>
+<Character>Tommy Wilhelm</Character>
+<Quality>novella</Quality>
+</Qualities>
+<Qualities>
+<ID>97</ID>
+<Character>Tommy Wilhelm</Character>
+<Quality>thoughts</Quality>
+</Qualities>
+<Qualities>
+<ID>98</ID>
+<Character>Trip </Character>
+<Quality>American history</Quality>
+</Qualities>
+<Qualities>
+<ID>98</ID>
+<Character>Trip </Character>
+<Quality>bitter</Quality>
+</Qualities>
+<Qualities>
+<ID>98</ID>
+<Character>Trip </Character>
+<Quality>death</Quality>
+</Qualities>
+<Qualities>
+<ID>98</ID>
+<Character>Trip </Character>
+<Quality>loneliness</Quality>
+</Qualities>
+<Qualities>
+<ID>98</ID>
+<Character>Trip </Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>98</ID>
+<Character>Trip </Character>
+<Quality>slavery</Quality>
+</Qualities>
+<Qualities>
+<ID>98</ID>
+<Character>Trip </Character>
+<Quality>South</Quality>
+</Qualities>
+<Qualities>
+<ID>98</ID>
+<Character>Trip </Character>
+<Quality>war</Quality>
+</Qualities>
+<Qualities>
+<ID>99</ID>
+<Character>Weary Slave</Character>
+<Quality>black</Quality>
+</Qualities>
+<Qualities>
+<ID>99</ID>
+<Character>Weary Slave</Character>
+<Quality>family</Quality>
+</Qualities>
+<Qualities>
+<ID>99</ID>
+<Character>Weary Slave</Character>
+<Quality>music</Quality>
+</Qualities>
+<Qualities>
+<ID>99</ID>
+<Character>Weary Slave</Character>
+<Quality>poverty</Quality>
+</Qualities>
+<Qualities>
+<ID>99</ID>
+<Character>Weary Slave</Character>
+<Quality>sentimental</Quality>
+</Qualities>
+<Qualities>
+<ID>99</ID>
+<Character>Weary Slave</Character>
+<Quality>serenity</Quality>
+</Qualities>
+<Qualities>
+<ID>99</ID>
+<Character>Weary Slave</Character>
+<Quality>slavery</Quality>
+</Qualities>
+<Qualities>
+<ID>99</ID>
+<Character>Weary Slave</Character>
+<Quality>uplifted</Quality>
+</Qualities>
+<Qualities>
+<ID>100</ID>
+<Character>Winston </Character>
+<Quality>assimilation</Quality>
+</Qualities>
+<Qualities>
+<ID>100</ID>
+<Character>Winston </Character>
+<Quality>Europe</Quality>
+</Qualities>
+<Qualities>
+<ID>100</ID>
+<Character>Winston </Character>
+<Quality>fear</Quality>
+</Qualities>
+<Qualities>
+<ID>100</ID>
+<Character>Winston </Character>
+<Quality>future</Quality>
+</Qualities>
+<Qualities>
+<ID>100</ID>
+<Character>Winston </Character>
+<Quality>law</Quality>
+</Qualities>
+<Qualities>
+<ID>100</ID>
+<Character>Winston </Character>
+<Quality>rebel</Quality>
+</Qualities>
+<Qualities>
+<ID>100</ID>
+<Character>Winston </Character>
+<Quality>romance</Quality>
+</Qualities>
+<Qualities>
+<ID>100</ID>
+<Character>Winston </Character>
+<Quality>sci-fi</Quality>
+</Qualities>
+</dataroot>

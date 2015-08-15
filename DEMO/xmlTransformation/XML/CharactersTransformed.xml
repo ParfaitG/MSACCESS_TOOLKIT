@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+	<Works sourcetype="movie" total="20">
+		<Characters>
+			<Character><Name>Belle</Name><Source>Beauty and the Beast, movie</Source></Character>
+			<Character><Name>Brooks Hatlen</Name><Source>The Shawshank Redemption, movie</Source></Character>
+			<Character><Name>C-3PO</Name><Source>Star Wars, movie</Source></Character>
+			<Character><Name>Captain Willard</Name><Source>Apocalypse Now, movie</Source></Character>
+			<Character><Name>Charles Foster Kane</Name><Source>Citizen Kane, movie</Source></Character>
+			<Character><Name>Charlie Bucket</Name><Source>Willy Wonka and the Chocolate Factory, movie</Source></Character>
+			<Character><Name>Dorothy</Name><Source>Wizard of Oz, movie</Source></Character>
+			<Character><Name>Forrest Gump</Name><Source>Forrest Gump, movie</Source></Character>
+			<Character><Name>Fredo Corleone</Name><Source>The Godfather, movie</Source></Character>
+			<Character><Name>Girl, Monsieur Verdoux</Name><Source>Monsieur Verdoux, movie</Source></Character>
+			<Character><Name>Hannah</Name><Source>The Great Dictator, movie</Source></Character>
+			<Character><Name>John Coffey</Name><Source>The Green Mile, movie</Source></Character>
+			<Character><Name>Maggie Fitzgerald</Name><Source>Million Dollar Baby, movie</Source></Character>
+			<Character><Name>Marshall Will Kane</Name><Source>High Noon, movie</Source></Character>
+			<Character><Name>Mr. Smith</Name><Source>Mr. Smith Goes to Washington, movie</Source></Character>
+			<Character><Name>Soap Opera Girl</Name><Source>Waking Life, movie</Source></Character>
+			<Character><Name>The Terminator</Name><Source>Terminator 2, movie</Source></Character>
+			<Character><Name>The Tramp</Name><Source>Charlie Chaplin silent movies</Source></Character>
+			<Character><Name>Thereza Ambrose</Name><Source>Limelight, movie</Source></Character>
+			<Character><Name>Trip</Name><Source>Glory, movie</Source></Character>
+		</Characters>
+	</Works>
+	<Works sourcetype="novel" total="30">
+		<Characters>
+			<Character><Name>Alyosha</Name><Source>Brothers Karamazov, novel</Source></Character>
+			<Character><Name>Arthur Dimmesdale</Name><Source>The Scarlet Letter, novel</Source></Character>
+			<Character><Name>Bigger Thomas</Name><Source>Native Son, novel</Source></Character>
+			<Character><Name>Billy Pilgrim</Name><Source>Slaughterhouse Five, novel</Source></Character>
+			<Character><Name>Bob Cratchit</Name><Source>A Christmas Carol, novella</Source></Character>
+			<Character><Name>Captain Ahab</Name><Source>Moby Dick, novel</Source></Character>
+			<Character><Name>Cash Bundren</Name><Source>As I Lay Dying, novel</Source></Character>
+			<Character><Name>Charlie Gordon</Name><Source>Flowers for Algernon, novel</Source></Character>
+			<Character><Name>Clarisse McClellan</Name><Source>Fahrenheit 451, novel</Source></Character>
+			<Character><Name>Denver</Name><Source>Beloved, novel</Source></Character>
+			<Character><Name>Edna Pontellier</Name><Source>The Awakening, novel</Source></Character>
+			<Character><Name>Emmeline Grangerford</Name><Source>The Adventures of Huckleberry Finn, novel</Source></Character>
+			<Character><Name>Frankenstein monster</Name><Source>Frankenstein, novel</Source></Character>
+			<Character><Name>Gerty MacDowell</Name><Source>Ulysses, novel</Source></Character>
+			<Character><Name>Hester Prynne</Name><Source>The Scarlet Letter, novel</Source></Character>
+			<Character><Name>Holden Caufield</Name><Source>Catcher in the Rye, novel</Source></Character>
+			<Character><Name>Humboldt</Name><Source>Humboldt's Gift, novel</Source></Character>
+			<Character><Name>Jay Gatsby</Name><Source>The Great Gatsby, novel</Source></Character>
+			<Character><Name>Jerry Renault</Name><Source>The Chocolate War, novel</Source></Character>
+			<Character><Name>Jim Casey</Name><Source>The Grapes of Wrath, novel</Source></Character>
+			<Character><Name>Jim of Huck Finn</Name><Source>The Adventure of Huckleberry Finn, novel</Source></Character>
+			<Character><Name>Jurgis</Name><Source>The Jungle, novel</Source></Character>
+			<Character><Name>Lennie</Name><Source>Of Mice and Men, novella</Source></Character>
+			<Character><Name>Mrs. Ramsay</Name><Source>To the Lighthouse, novel</Source></Character>
+			<Character><Name>Perth</Name><Source>Moby Dick, novel</Source></Character>
+			<Character><Name>Quasimodo</Name><Source>The Hunchback of Notre Dame, novel</Source></Character>
+			<Character><Name>Santiago</Name><Source>The Old Man and the Sea, novella</Source></Character>
+			<Character><Name>Tiny Tim</Name><Source>A Christmas Carol, novella</Source></Character>
+			<Character><Name>Tod Clifton</Name><Source>Invisible Man, novel</Source></Character>
+			<Character><Name>Winston</Name><Source>1984, novel</Source></Character>
+		</Characters>
+	</Works>
+	<Works sourcetype="play" total="7">
+		<Characters>
+			<Character><Name>Bernard</Name><Source>Death of a Salesman, play</Source></Character>
+			<Character><Name>Edmund Tyrone</Name><Source>Long Day's Journey into Night, play</Source></Character>
+			<Character><Name>Emily Webb</Name><Source>Our Town, play</Source></Character>
+			<Character><Name>Hamlet</Name><Source>Hamlet, play</Source></Character>
+			<Character><Name>Kattrin</Name><Source>Mother Courage, play</Source></Character>
+			<Character><Name>Laura Wingfield</Name><Source>The Glass Menagerie, play</Source></Character>
+			<Character><Name>Ruth Younger</Name><Source>A Raisin in the Sun, play</Source></Character>
+		</Characters>
+	</Works>
+	<Works sourcetype="poem" total="10">
+		<Characters>
+			<Character><Name>Athlete Dying Young</Name><Source>A.E. Housman poem</Source></Character>
+			<Character><Name>J. Alfred Prufrock</Name><Source>T.S. Eliot poem</Source></Character>
+			<Character><Name>Mother in Black Christ</Name><Source>Countee Cullen poem, The Black Christ</Source></Character>
+			<Character><Name>Musician, Weary Blues</Name><Source>Langston Hughes poem, The Weary Blues</Source></Character>
+			<Character><Name>Obscure Youth</Name><Source>Walt Whitman poem, Ambition</Source></Character>
+			<Character><Name>Waiting Man</Name><Source>Alan Seeger poem, Rendezvous</Source></Character>
+			<Character><Name>Soldier Boy</Name><Source>Siegfried Sassoon poem</Source></Character>
+			<Character><Name>Speaker, A Winter Piece</Name><Source>William Cullen Bryant poem, A Winter Piece</Source></Character>
+			<Character><Name>Speaker, The Suicide</Name><Source>Edna St. Vincent Millay poem, The Suicide</Source></Character>
+			<Character><Name>Weary Slave, Banjo Song</Name><Source>Paul Laurence Dunbar poem, A Banjo Song</Source></Character>
+		</Characters>
+	</Works>
+	<Works sourcetype="song" total="1">
+		<Characters>
+			<Character><Name>H.E.R.</Name><Source>Common rap song</Source></Character>
+		</Characters>
+	</Works>
+	<Works sourcetype="story" total="7">
+		<Characters>
+			<Character><Name>Bartleby</Name><Source>Herman Melville short story</Source></Character>
+			<Character><Name>C. Green</Name><Source>Thomas Wolfe short story</Source></Character>
+			<Character><Name>Elizabeth Bates</Name><Source>D.H. Lawrence short story</Source></Character>
+			<Character><Name>Emily Grierson</Name><Source>William Faulkner short story</Source></Character>
+			<Character><Name>Job</Name><Source>The Bible</Source></Character>
+			<Character><Name>Lucynell Crater</Name><Source>Flannery O'Connor short story</Source></Character>
+			<Character><Name>Tommy Wilhelm</Name><Source>Saul Bellow short story</Source></Character>
+		</Characters>
+	</Works>
+	<Works sourcetype="tv animated series" total="6">
+		<Characters>
+			<Character><Name>Daredevil</Name><Source>Spiderman, tv animated series</Source></Character>
+			<Character><Name>Mr. Freeze</Name><Source>Batman, tv animated series</Source></Character>
+			<Character><Name>Rogue</Name><Source>X-Men, tv animated series</Source></Character>
+			<Character><Name>Silver Surfer</Name><Source>Fantastic Four, tv animated series</Source></Character>
+			<Character><Name>Spiderman</Name><Source>Spiderman, tv animated series</Source></Character>
+			<Character><Name>The Thing</Name><Source>Fantastic Four, tv animated series</Source></Character>
+		</Characters>
+	</Works>
+	<Works sourcetype="tv show" total="19">
+		<Characters>
+			<Character><Name>Al Borland</Name><Source>Home Improvement, sitcom</Source></Character>
+			<Character><Name>Al Bundy</Name><Source>Married with Children, sitcom</Source></Character>
+			<Character><Name>Barney Gumble</Name><Source>The Simpsons, sitcom</Source></Character>
+			<Character><Name>Bleeding Gums Murphy</Name><Source>The Simpsons, sitcom</Source></Character>
+			<Character><Name>Carlton Banks</Name><Source>Fresh Prince of Bel-Air, sitcom</Source></Character>
+			<Character><Name>Charley Parks</Name><Source>Twilight Zone, tv show</Source></Character>
+			<Character><Name>Data</Name><Source>Star Trek: The Next Generation, tv show</Source></Character>
+			<Character><Name>Gart Williams</Name><Source>Twilight Zone, tv show</Source></Character>
+			<Character><Name>Henry Corwin</Name><Source>Twilight Zone, tv show</Source></Character>
+			<Character><Name>James Evans</Name><Source>Good Times, sitcom</Source></Character>
+			<Character><Name>Joan Clayton</Name><Source>Girlfriends, sitcom</Source></Character>
+			<Character><Name>Marilyn Cuberle</Name><Source>Twilight Zone, tv show</Source></Character>
+			<Character><Name>Mr. Spock</Name><Source>Star Trek: Original Series, tv show</Source></Character>
+			<Character><Name>Mulder</Name><Source>X-Files, tv show</Source></Character>
+			<Character><Name>Newman</Name><Source>Seinfeld, sitcom</Source></Character>
+			<Character><Name>Robert Barone</Name><Source>Everybody Loves Raymond, sitcom</Source></Character>
+			<Character><Name>Roz Doyle</Name><Source>Frasier, sitcom</Source></Character>
+			<Character><Name>Seven of Nine</Name><Source>Star Trek: Voyager, tv show</Source></Character>
+			<Character><Name>Steve Urkel</Name><Source>Family Matters, sitcom</Source></Character>
+		</Characters>
+	</Works>
+</dataroot>
